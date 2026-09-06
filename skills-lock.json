@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "adt-book-conversion": {
+      "source": "KaReeeeeeeeEM/adt-book-conversion-skill",
+      "sourceType": "github",
+      "skillPath": "skills/adt-book-conversion/SKILL.md",
+      "computedHash": "81045aa3719eda92223f5ce520e2c33120722910c744fdfc982d5fa582b1c66d"
+    }
+  }
+}
