@@ -1,6 +1,6 @@
 # Food and Human Nutrition Form 2
 
-[Read the accessible online edition](https://kareeeeeeeem.github.io/food-and-human-nutrition-f2/)
+[Read the accessible online edition](http://reelma.me/food-and-human-nutrition-f2/)
 
 ADT Studio conversion workspace for the book **Food and Human Nutrition Form 2**.
 
