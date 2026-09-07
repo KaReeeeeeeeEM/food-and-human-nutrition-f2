@@ -10,9 +10,9 @@
   "features": {
     "signLanguage": false,
     "easyRead": false,
-    "glossary": false,
+    "glossary": true,
     "eli5": false,
-    "readAloud": false,
+    "readAloud": true,
     "autoplay": true,
     "showTutorial": true,
     "showNavigationControls": true,
@@ -29,11 +29,5 @@
     "trackerUrl": "https://unisitetracker.unicef.io/matomo.php",
     "srcUrl": "https://unisitetracker.unicef.io/matomo.js"
   },
-  "lockedSettings": [
-    "dockLayout",
-    "theme",
-    "iconSize",
-    "reduceMotion"
-  ],
   "fixedLayout": true
 }

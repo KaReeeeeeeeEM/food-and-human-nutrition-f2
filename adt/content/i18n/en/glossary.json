@@ -1,1 +1,4009 @@
-{}
+{
+  "absorb": {
+    "word": "absorb",
+    "definition": "to take in liquid or another substance",
+    "variations": [
+      "absorb",
+      "absorbs",
+      "absorbed",
+      "absorbing",
+      "absorption"
+    ],
+    "emoji": "💧🌾",
+    "id": "gl001"
+  },
+  "absorption": {
+    "word": "absorption",
+    "definition": "the process by which the body takes nutrients from food into the blood",
+    "variations": [
+      "absorption",
+      "absorb",
+      "absorbed",
+      "absorbable"
+    ],
+    "emoji": "🧪➡️",
+    "id": "gl002"
+  },
+  "acceptance": {
+    "word": "acceptance",
+    "definition": "willingness to like or use something",
+    "variations": [
+      "acceptance"
+    ],
+    "emoji": "👍✅",
+    "id": "gl003"
+  },
+  "accompaniment": {
+    "word": "accompaniment",
+    "definition": "an extra food served with the main dish to add taste or variety",
+    "variations": [
+      "accompaniment",
+      "accompaniments"
+    ],
+    "emoji": "🥖🥗",
+    "id": "gl004"
+  },
+  "accompaniments": {
+    "word": "accompaniments",
+    "definition": "foods served together with a main dish",
+    "variations": [
+      "accompaniment",
+      "accompaniments"
+    ],
+    "emoji": "🍽️🥗",
+    "id": "gl005"
+  },
+  "acute malnutrition": {
+    "word": "acute malnutrition",
+    "definition": "severe lack of food or nutrients that happens over a short time and harms health",
+    "variations": [
+      "acute malnutrition"
+    ],
+    "emoji": "🚨🥣",
+    "id": "gl006"
+  },
+  "acute poisoning": {
+    "word": "acute poisoning",
+    "definition": "serious illness caused by taking in a harmful substance suddenly or in a large amount",
+    "variations": [
+      "acute poisoning"
+    ],
+    "emoji": "☠️🚑",
+    "id": "gl007"
+  },
+  "additive": {
+    "word": "additive",
+    "definition": "a substance added to food to improve it in some way, such as colour, taste, or keeping quality",
+    "variations": [
+      "additive",
+      "additives"
+    ],
+    "emoji": "➕🍲",
+    "id": "gl008"
+  },
+  "adolescence": {
+    "word": "adolescence",
+    "definition": "the stage of life between childhood and adulthood when the body grows and changes quickly",
+    "variations": [
+      "adolescence",
+      "adolescent",
+      "adolescents"
+    ],
+    "emoji": "🧑📈",
+    "id": "gl009"
+  },
+  "adolescent": {
+    "word": "adolescent",
+    "definition": "a young person who is between childhood and adulthood, usually 10 to 19 years old",
+    "variations": [
+      "adolescent",
+      "adolescents",
+      "adolescence"
+    ],
+    "emoji": "🧑📚",
+    "id": "gl010"
+  },
+  "adulthood": {
+    "word": "adulthood",
+    "definition": "the stage of life when a person is fully grown",
+    "variations": [
+      "adulthood",
+      "adult",
+      "adults"
+    ],
+    "emoji": "🧑🌱",
+    "id": "gl011"
+  },
+  "aerobic exercise": {
+    "word": "aerobic exercise",
+    "definition": "exercise that uses oxygen to help the body produce energy and improve fitness",
+    "variations": [
+      "aerobic exercise",
+      "aerobic exercises",
+      "aerobics"
+    ],
+    "emoji": "🏊💓🏃",
+    "id": "gl012"
+  },
+  "airtight": {
+    "word": "airtight",
+    "definition": "closed in a way that does not let air in or out",
+    "variations": [
+      "airtight"
+    ],
+    "emoji": "🫙🔒",
+    "id": "gl013"
+  },
+  "aleurone": {
+    "word": "aleurone",
+    "definition": "a thin layer in a grain that contains vitamins and other nutrients",
+    "variations": [
+      "aleurone"
+    ],
+    "emoji": "🌾🧬",
+    "id": "gl014"
+  },
+  "all-purpose flour": {
+    "word": "all-purpose flour",
+    "definition": "a medium-strength flour that can be used for many different kinds of baking and cooking",
+    "variations": [
+      "all-purpose flour"
+    ],
+    "emoji": "🌾🍪",
+    "id": "gl015"
+  },
+  "allergic reaction": {
+    "word": "allergic reaction",
+    "definition": "a harmful response of the body to something it does not accept",
+    "variations": [
+      "allergic reaction",
+      "allergic reactions"
+    ],
+    "emoji": "🤧⚠️",
+    "id": "gl016"
+  },
+  "allergy": {
+    "word": "allergy",
+    "definition": "a condition in which the body reacts badly to certain foods or substances",
+    "variations": [
+      "allergy",
+      "allergies",
+      "allergic"
+    ],
+    "emoji": "🤧⚠️",
+    "id": "gl017"
+  },
+  "amino acid": {
+    "word": "amino acid",
+    "definition": "a small building block that the body uses to make proteins",
+    "variations": [
+      "amino acid",
+      "amino acids"
+    ],
+    "emoji": "🧬💪",
+    "id": "gl018"
+  },
+  "anaemia": {
+    "word": "anaemia",
+    "definition": "a condition in which the blood does not have enough healthy red cells or haemoglobin, causing weakness and tiredness",
+    "variations": [
+      "anaemia",
+      "anaemic"
+    ],
+    "emoji": "🩸😴",
+    "id": "gl019"
+  },
+  "anaemic": {
+    "word": "anaemic",
+    "definition": "weak or unhealthy because the body does not have enough healthy red blood cells, often due to low iron",
+    "variations": [
+      "anaemia",
+      "anaemic"
+    ],
+    "emoji": "😓🩸",
+    "id": "gl020"
+  },
+  "anorexia nervosa": {
+    "word": "anorexia nervosa",
+    "definition": "a serious eating disorder in which a person refuses to eat enough because of a strong fear of gaining weight",
+    "variations": [
+      "anorexia nervosa"
+    ],
+    "emoji": "🥗⚠️🧠",
+    "id": "gl021"
+  },
+  "antenatal care": {
+    "word": "antenatal care",
+    "definition": "health care given to a woman during pregnancy",
+    "variations": [
+      "antenatal care"
+    ],
+    "emoji": "🤰🏥",
+    "id": "gl022"
+  },
+  "anticaking agent": {
+    "word": "anticaking agent",
+    "definition": "a substance added to powdered food to stop it from forming lumps",
+    "variations": [
+      "anticaking agent",
+      "anticaking agents"
+    ],
+    "emoji": "🧂🚫",
+    "id": "gl023"
+  },
+  "antinutrient": {
+    "word": "antinutrient",
+    "definition": "a natural substance in food that can reduce the body's ability to absorb nutrients",
+    "variations": [
+      "antinutrient",
+      "antinutrients"
+    ],
+    "emoji": "⚠️🌾",
+    "id": "gl024"
+  },
+  "antioxidant": {
+    "word": "antioxidant",
+    "definition": "a substance that helps stop food from being damaged by air",
+    "variations": [
+      "antioxidant",
+      "antioxidants"
+    ],
+    "emoji": "🛡️🍋",
+    "id": "gl025"
+  },
+  "appearance": {
+    "word": "appearance",
+    "definition": "the way something looks",
+    "variations": [
+      "appearance",
+      "appearances"
+    ],
+    "emoji": "👀✨",
+    "id": "gl026"
+  },
+  "appetiser": {
+    "word": "appetiser",
+    "definition": "a small first dish served to make a person ready to eat more",
+    "variations": [
+      "appetiser",
+      "appetisers"
+    ],
+    "emoji": "🥣😋",
+    "id": "gl027"
+  },
+  "appetite": {
+    "word": "appetite",
+    "definition": "the natural desire to eat food",
+    "variations": [
+      "appetite",
+      "appetites"
+    ],
+    "emoji": "🍽️😋",
+    "id": "gl028"
+  },
+  "aroma": {
+    "word": "aroma",
+    "definition": "a pleasant smell, especially from food",
+    "variations": [
+      "aroma",
+      "aromas"
+    ],
+    "emoji": "👃☕",
+    "id": "gl029"
+  },
+  "aromatic": {
+    "word": "aromatic",
+    "definition": "having a strong pleasant smell",
+    "variations": [
+      "aromatic"
+    ],
+    "emoji": "👃🌸",
+    "id": "gl030"
+  },
+  "ascorbic acid": {
+    "word": "ascorbic acid",
+    "definition": "vitamin C, which helps keep the body healthy and supports healing",
+    "variations": [
+      "ascorbic acid",
+      "vitamin C"
+    ],
+    "emoji": "🍊💪",
+    "id": "gl031"
+  },
+  "athlete": {
+    "word": "athlete",
+    "definition": "a person who does sports or other physical activities that need strength and skill",
+    "variations": [
+      "athlete",
+      "athletes",
+      "athletic"
+    ],
+    "emoji": "🏃🏅",
+    "id": "gl032"
+  },
+  "baking powder": {
+    "word": "baking powder",
+    "definition": "a raising agent that makes dough or batter rise and become light",
+    "variations": [
+      "baking powder"
+    ],
+    "emoji": "🧁⬆️",
+    "id": "gl033"
+  },
+  "balanced diet": {
+    "word": "balanced diet",
+    "definition": "a way of eating that includes the right kinds and amounts of different foods for good health",
+    "variations": [
+      "balanced diet",
+      "balanced diets"
+    ],
+    "emoji": "🍚🥕⚖️",
+    "id": "gl034"
+  },
+  "balanced meal": {
+    "word": "balanced meal",
+    "definition": "a meal that contains the right types and amounts of foods to provide important nutrients",
+    "variations": [
+      "balanced meal",
+      "balanced meals"
+    ],
+    "emoji": "🍛⚖️",
+    "id": "gl035"
+  },
+  "barley": {
+    "word": "barley",
+    "definition": "a cereal grain used for food and sometimes for brewing",
+    "variations": [
+      "barley"
+    ],
+    "emoji": "🌾🍺",
+    "id": "gl036"
+  },
+  "batter": {
+    "word": "batter",
+    "definition": "a mixture of flour, liquid, and sometimes eggs used for cooking or coating food",
+    "variations": [
+      "batter",
+      "batters"
+    ],
+    "emoji": "🥣🍳",
+    "id": "gl037"
+  },
+  "beriberi": {
+    "word": "beriberi",
+    "definition": "a disease caused by lack of vitamin B1 that can affect the nerves, muscles, heart, and energy use",
+    "variations": [
+      "beriberi"
+    ],
+    "emoji": "💪🧠❤️",
+    "id": "gl038"
+  },
+  "beta-carotene": {
+    "word": "beta-carotene",
+    "definition": "a natural substance in some foods that gives orange or yellow colour",
+    "variations": [
+      "beta-carotene"
+    ],
+    "emoji": "🥕🟠",
+    "id": "gl039"
+  },
+  "beverage": {
+    "word": "beverage",
+    "definition": "a drink such as tea, juice, milk, or soup",
+    "variations": [
+      "beverage",
+      "beverages"
+    ],
+    "emoji": "🥤☕",
+    "id": "gl040"
+  },
+  "binding": {
+    "word": "binding",
+    "definition": "the action of holding ingredients together in a mixture",
+    "variations": [
+      "bind",
+      "binds",
+      "binding",
+      "bound"
+    ],
+    "emoji": "🔗🥣",
+    "id": "gl041"
+  },
+  "birth defect": {
+    "word": "birth defect",
+    "definition": "a problem in a baby’s body or health that is present at birth",
+    "variations": [
+      "birth defect",
+      "birth defects"
+    ],
+    "emoji": "👶⚠️",
+    "id": "gl042"
+  },
+  "biscuit cutter": {
+    "word": "biscuit cutter",
+    "definition": "a tool used to cut dough into shapes for biscuits",
+    "variations": [
+      "biscuit cutter",
+      "biscuit cutters"
+    ],
+    "emoji": "🍪🔪",
+    "id": "gl043"
+  },
+  "bite": {
+    "word": "bite",
+    "definition": "a very small piece or portion of food, often eaten in one mouthful",
+    "variations": [
+      "bite",
+      "bites",
+      "bite-sized"
+    ],
+    "emoji": "🍿👌",
+    "id": "gl044"
+  },
+  "black pepper": {
+    "word": "black pepper",
+    "definition": "a common spice made from dried pepper seeds, used to add heat and flavour",
+    "variations": [
+      "black pepper",
+      "pepper"
+    ],
+    "emoji": "⚫🧂",
+    "id": "gl045"
+  },
+  "blend": {
+    "word": "blend",
+    "definition": "to mix ingredients together until they are smooth",
+    "variations": [
+      "blend",
+      "blends",
+      "blended",
+      "blending"
+    ],
+    "emoji": "🥣🔄",
+    "id": "gl046"
+  },
+  "blood sugar": {
+    "word": "blood sugar",
+    "definition": "the amount of sugar, called glucose, in the blood",
+    "variations": [
+      "blood sugar levels"
+    ],
+    "emoji": "🩸🍬",
+    "id": "gl047"
+  },
+  "Body Mass Index": {
+    "word": "Body Mass Index",
+    "definition": "a measure used to check if a person’s body weight is low, normal, or high for their height",
+    "variations": [
+      "Body Mass Index",
+      "BMI"
+    ],
+    "emoji": "⚖️📏",
+    "id": "gl048"
+  },
+  "boiling": {
+    "word": "boiling",
+    "definition": "heating a liquid until it bubbles strongly",
+    "variations": [
+      "boil",
+      "boiled",
+      "boiling",
+      "boils"
+    ],
+    "emoji": "♨️💧",
+    "id": "gl049"
+  },
+  "bouquet garni": {
+    "word": "bouquet garni",
+    "definition": "a small tied bundle of herbs, sometimes with spices, cooked in food to add flavour and removed before serving",
+    "variations": [
+      "bouquet garni"
+    ],
+    "emoji": "🌿🪢🍲",
+    "id": "gl050"
+  },
+  "bran": {
+    "word": "bran",
+    "definition": "the outer layer of a grain that contains a lot of fibre",
+    "variations": [
+      "bran"
+    ],
+    "emoji": "🌾🥣",
+    "id": "gl051"
+  },
+  "breadcrumbs": {
+    "word": "breadcrumbs",
+    "definition": "very small pieces of dry bread",
+    "variations": [
+      "breadcrumb",
+      "breadcrumbs"
+    ],
+    "emoji": "🍞🔹",
+    "id": "gl052"
+  },
+  "breakfast": {
+    "word": "breakfast",
+    "definition": "the first meal of the day, eaten in the morning",
+    "variations": [
+      "breakfast",
+      "breakfasts"
+    ],
+    "emoji": "🌅🍞",
+    "id": "gl053"
+  },
+  "breastfeeding": {
+    "word": "breastfeeding",
+    "definition": "feeding a baby with milk from the mother’s breast",
+    "variations": [
+      "breastfeeding",
+      "breastfeed",
+      "breastfed"
+    ],
+    "emoji": "🤱🍼",
+    "id": "gl054"
+  },
+  "buffet": {
+    "word": "buffet",
+    "definition": "a meal where people serve themselves from several dishes set out on a table",
+    "variations": [
+      "buffets"
+    ],
+    "emoji": "🍲🍽️",
+    "id": "gl055"
+  },
+  "calcium": {
+    "word": "calcium",
+    "definition": "a mineral that helps build and strengthen bones and teeth",
+    "variations": [
+      "calcium"
+    ],
+    "emoji": "🦴🥛",
+    "id": "gl056"
+  },
+  "calorie": {
+    "word": "calorie",
+    "definition": "a unit used to measure the energy that food gives to the body",
+    "variations": [
+      "calorie",
+      "calories"
+    ],
+    "emoji": "🔥🍞",
+    "id": "gl057"
+  },
+  "carbohydrate": {
+    "word": "carbohydrate",
+    "definition": "a nutrient that gives the body energy",
+    "variations": [
+      "carbohydrate",
+      "carbohydrates"
+    ],
+    "emoji": "🍚⚡",
+    "id": "gl058"
+  },
+  "carbohydrates": {
+    "word": "carbohydrates",
+    "definition": "nutrients that give the body energy",
+    "variations": [
+      "carbohydrate",
+      "carbohydrates"
+    ],
+    "emoji": "🍚🍞⚡",
+    "id": "gl059"
+  },
+  "cardamom": {
+    "word": "cardamom",
+    "definition": "a spice made from dried seeds with a strong sweet smell",
+    "variations": [
+      "cardamom"
+    ],
+    "emoji": "🌱🍵",
+    "id": "gl060"
+  },
+  "cardiovascular": {
+    "word": "cardiovascular",
+    "definition": "related to the heart and blood vessels",
+    "variations": [
+      "cardiovascular"
+    ],
+    "emoji": "❤️🩸",
+    "id": "gl061"
+  },
+  "cardiovascular disease": {
+    "word": "cardiovascular disease",
+    "definition": "a disease that affects the heart and blood vessels",
+    "variations": [
+      "cardiovascular disease",
+      "cardiovascular diseases"
+    ],
+    "emoji": "❤️🩸",
+    "id": "gl062"
+  },
+  "carotene": {
+    "word": "carotene",
+    "definition": "a substance in some yellow or orange foods that the body can turn into vitamin A",
+    "variations": [
+      "carotene"
+    ],
+    "emoji": "🟠🥕",
+    "id": "gl063"
+  },
+  "carotenoid": {
+    "word": "carotenoid",
+    "definition": "a natural substance that gives some foods a yellow, orange, or red colour",
+    "variations": [
+      "carotenoid",
+      "carotenoids"
+    ],
+    "emoji": "🟡🥕",
+    "id": "gl064"
+  },
+  "categorise": {
+    "word": "categorise",
+    "definition": "to put things into groups according to their type or use",
+    "variations": [
+      "categorise",
+      "categorised",
+      "categories",
+      "category"
+    ],
+    "emoji": "🗂️📚",
+    "id": "gl065"
+  },
+  "celiac disease": {
+    "word": "celiac disease",
+    "definition": "a disease in which the body is harmed by eating gluten",
+    "variations": [
+      "celiac disease",
+      "coeliac disease"
+    ],
+    "emoji": "⚠️🍞🩺",
+    "id": "gl066"
+  },
+  "centrepieces": {
+    "word": "centrepieces",
+    "definition": "decorations placed in the middle of a table",
+    "variations": [
+      "centrepiece"
+    ],
+    "emoji": "🌸✨",
+    "id": "gl067"
+  },
+  "cereal": {
+    "word": "cereal",
+    "definition": "an edible grain from grasses, used as an important food for people",
+    "variations": [
+      "cereal",
+      "cereals"
+    ],
+    "emoji": "🌾🥣",
+    "id": "gl068"
+  },
+  "child spacing": {
+    "word": "child spacing",
+    "definition": "leaving enough time between one birth and the next",
+    "variations": [
+      "child spacing",
+      "birth spacing"
+    ],
+    "emoji": "👶⏳",
+    "id": "gl069"
+  },
+  "chlorophyll": {
+    "word": "chlorophyll",
+    "definition": "the green substance in plants that gives them their colour",
+    "variations": [
+      "chlorophyll",
+      "chlorophylls"
+    ],
+    "emoji": "🌿🟢",
+    "id": "gl070"
+  },
+  "cholesterol": {
+    "word": "cholesterol",
+    "definition": "a fatty substance in the body and in some foods; too much can be unhealthy",
+    "variations": [
+      "cholesterol"
+    ],
+    "emoji": "🩺🍳",
+    "id": "gl071"
+  },
+  "cinnamon": {
+    "word": "cinnamon",
+    "definition": "a spice made from dried tree bark, used to flavour foods and drinks",
+    "variations": [
+      "cinnamon"
+    ],
+    "emoji": "🪵☕",
+    "id": "gl072"
+  },
+  "circulation": {
+    "word": "circulation",
+    "definition": "movement around an area, such as hot air moving inside an oven",
+    "variations": [
+      "circulation",
+      "circulate"
+    ],
+    "emoji": "🌬️♨️",
+    "id": "gl073"
+  },
+  "cloves": {
+    "word": "cloves",
+    "definition": "dried flower buds used as a strong sweet-smelling spice",
+    "variations": [
+      "clove",
+      "cloves"
+    ],
+    "emoji": "🌰☕",
+    "id": "gl074"
+  },
+  "coating": {
+    "word": "coating",
+    "definition": "a layer put around food before cooking to protect it and improve texture or appearance",
+    "variations": [
+      "coat",
+      "coated",
+      "coating",
+      "coats"
+    ],
+    "emoji": "🍗🥣",
+    "id": "gl075"
+  },
+  "cocktail": {
+    "word": "cocktail",
+    "definition": "small pieces of cold food served as an appetizer, often with a tasty sauce",
+    "variations": [
+      "cocktail",
+      "cocktails"
+    ],
+    "emoji": "🍢🥗",
+    "id": "gl076"
+  },
+  "cognitive development": {
+    "word": "cognitive development",
+    "definition": "the growth of a person’s ability to think, learn, understand, and remember",
+    "variations": [
+      "cognitive development"
+    ],
+    "emoji": "🧠📘",
+    "id": "gl077"
+  },
+  "colouring agent": {
+    "word": "colouring agent",
+    "definition": "a substance used to add or restore colour in food",
+    "variations": [
+      "colouring agent",
+      "colouring agents"
+    ],
+    "emoji": "🎨🍭",
+    "id": "gl078"
+  },
+  "compatible": {
+    "word": "compatible",
+    "definition": "able to work well together without causing problems",
+    "variations": [
+      "compatible",
+      "compatibility"
+    ],
+    "emoji": "🤝✔️",
+    "id": "gl079"
+  },
+  "complementary feeding": {
+    "word": "complementary feeding",
+    "definition": "giving a baby other foods in addition to breast milk at the right age",
+    "variations": [
+      "complementary feeding"
+    ],
+    "emoji": "👶🥣",
+    "id": "gl080"
+  },
+  "complex carbohydrate": {
+    "word": "complex carbohydrate",
+    "definition": "a type of carbohydrate that gives energy more slowly and lasts longer in the body",
+    "variations": [
+      "complex carbohydrate",
+      "complex carbohydrates"
+    ],
+    "emoji": "🌾⚡",
+    "id": "gl081"
+  },
+  "conception": {
+    "word": "conception",
+    "definition": "the beginning of pregnancy when a sperm fertilizes an egg",
+    "variations": [
+      "conception",
+      "conceptions"
+    ],
+    "emoji": "🤰🧬",
+    "id": "gl082"
+  },
+  "condiment": {
+    "word": "condiment",
+    "definition": "a substance added to food, usually after cooking, to improve flavour",
+    "variations": [
+      "condiment",
+      "condiments"
+    ],
+    "emoji": "🍅🥄",
+    "id": "gl083"
+  },
+  "consistency": {
+    "word": "consistency",
+    "definition": "how thick, thin, or smooth a mixture is",
+    "variations": [
+      "consistency",
+      "consistencies"
+    ],
+    "emoji": "🥣💧",
+    "id": "gl084"
+  },
+  "consistent": {
+    "word": "consistent",
+    "definition": "staying the same in quality or appearance",
+    "variations": [
+      "consistent",
+      "consistency"
+    ],
+    "emoji": "📏🔁",
+    "id": "gl085"
+  },
+  "constipation": {
+    "word": "constipation",
+    "definition": "difficulty in passing stool, often because the bowels move slowly",
+    "variations": [
+      "constipation"
+    ],
+    "emoji": "😣🚻",
+    "id": "gl086"
+  },
+  "contamination": {
+    "word": "contamination",
+    "definition": "the presence of harmful substances or germs in food, water, or the environment",
+    "variations": [
+      "contamination",
+      "contaminate",
+      "contaminated"
+    ],
+    "emoji": "🦠💧",
+    "id": "gl087"
+  },
+  "convalescent": {
+    "word": "convalescent",
+    "definition": "a person who is getting better after being sick",
+    "variations": [
+      "convalescent",
+      "convalescents"
+    ],
+    "emoji": "🛌🌤️",
+    "id": "gl088"
+  },
+  "convalescents": {
+    "word": "convalescents",
+    "definition": "people who are recovering from illness",
+    "variations": [
+      "convalescent"
+    ],
+    "emoji": "🙂💪",
+    "id": "gl089"
+  },
+  "coriander": {
+    "word": "coriander",
+    "definition": "a plant whose seeds and leaves are used to flavour food",
+    "variations": [
+      "coriander",
+      "coriander seeds",
+      "coriander leaves"
+    ],
+    "emoji": "🌿🟤",
+    "id": "gl090"
+  },
+  "counselling": {
+    "word": "counselling",
+    "definition": "professional advice and support given to help people make good decisions",
+    "variations": [
+      "counselling",
+      "counsel",
+      "counselled",
+      "counselling"
+    ],
+    "emoji": "🗣️🤝",
+    "id": "gl091"
+  },
+  "course meal": {
+    "word": "course meal",
+    "definition": "a meal served in a planned order, with different parts served one after another",
+    "variations": [
+      "course meal",
+      "course meals"
+    ],
+    "emoji": "🍽️📚",
+    "id": "gl092"
+  },
+  "couscous": {
+    "word": "couscous",
+    "definition": "small grains of pasta usually made from semolina",
+    "variations": [
+      "couscous"
+    ],
+    "emoji": "🥣🌾",
+    "id": "gl093"
+  },
+  "crockery": {
+    "word": "crockery",
+    "definition": "plates, cups, bowls, and other dishes used for serving food",
+    "variations": [],
+    "emoji": "🍽️☕",
+    "id": "gl094"
+  },
+  "cutlery": {
+    "word": "cutlery",
+    "definition": "tools used for eating and serving food, such as knives, forks, and spoons",
+    "variations": [],
+    "emoji": "🍴🔪",
+    "id": "gl095"
+  },
+  "deep fry": {
+    "word": "deep fry",
+    "definition": "to cook food in a lot of hot oil",
+    "variations": [
+      "deep fry",
+      "deep fried",
+      "deep frying"
+    ],
+    "emoji": "🍟🫒",
+    "id": "gl096"
+  },
+  "deficiency": {
+    "word": "deficiency",
+    "definition": "a lack of something important that the body needs to stay healthy",
+    "variations": [
+      "deficiency",
+      "deficiencies"
+    ],
+    "emoji": "➖⚕️",
+    "id": "gl097"
+  },
+  "dehulled": {
+    "word": "dehulled",
+    "definition": "having the outer covering removed from a grain or seed",
+    "variations": [
+      "dehulled",
+      "dehull",
+      "dehulling"
+    ],
+    "emoji": "🌽🔓",
+    "id": "gl098"
+  },
+  "dehulled maize": {
+    "word": "dehulled maize",
+    "definition": "maize grain with the outer covering removed",
+    "variations": [
+      "dehulled maize"
+    ],
+    "emoji": "🌽🔄",
+    "id": "gl099"
+  },
+  "dehydration": {
+    "word": "dehydration",
+    "definition": "a condition in which the body loses too much water",
+    "variations": [
+      "dehydration",
+      "dehydrate",
+      "dehydrated"
+    ],
+    "emoji": "💧🥵",
+    "id": "gl100"
+  },
+  "derive": {
+    "word": "derive",
+    "definition": "to get something from a source",
+    "variations": [
+      "derive",
+      "derived"
+    ],
+    "emoji": "🌿➡️",
+    "id": "gl101"
+  },
+  "dessert": {
+    "word": "dessert",
+    "definition": "a sweet food eaten at the end of a meal",
+    "variations": [
+      "dessert",
+      "desserts"
+    ],
+    "emoji": "🍰🍨",
+    "id": "gl102"
+  },
+  "detection": {
+    "word": "detection",
+    "definition": "the act of finding or discovering a disease or problem",
+    "variations": [
+      "detection",
+      "detect"
+    ],
+    "emoji": "🔎🩻",
+    "id": "gl103"
+  },
+  "deworming": {
+    "word": "deworming",
+    "definition": "treatment to remove worms from the body",
+    "variations": [
+      "deworming",
+      "deworm"
+    ],
+    "emoji": "💊🪱",
+    "id": "gl104"
+  },
+  "diabetes": {
+    "word": "diabetes",
+    "definition": "a disease in which the body cannot properly control the level of sugar in the blood",
+    "variations": [
+      "diabetes"
+    ],
+    "emoji": "🩸🍬",
+    "id": "gl105"
+  },
+  "diabetes mellitus": {
+    "word": "diabetes mellitus",
+    "definition": "a disease in which the body has problems controlling blood sugar",
+    "variations": [
+      "diabetes mellitus",
+      "diabetes"
+    ],
+    "emoji": "🩺🩸",
+    "id": "gl106"
+  },
+  "dietary diversity": {
+    "word": "dietary diversity",
+    "definition": "eating many different kinds of foods so the body gets many nutrients",
+    "variations": [
+      "dietary diversity"
+    ],
+    "emoji": "🍎🥕🥜",
+    "id": "gl107"
+  },
+  "dietary fibre": {
+    "word": "dietary fibre",
+    "definition": "the part of plant food that helps food move through the body and keeps digestion healthy",
+    "variations": [
+      "dietary fibre",
+      "fibre"
+    ],
+    "emoji": "🥬🌾💪",
+    "id": "gl108"
+  },
+  "dietary preference": {
+    "word": "dietary preference",
+    "definition": "the kind of food a person likes or chooses to eat",
+    "variations": [
+      "dietary preference",
+      "dietary preferences"
+    ],
+    "emoji": "😋🍲",
+    "id": "gl109"
+  },
+  "digestible": {
+    "word": "digestible",
+    "definition": "easy for the body to break down and use as food",
+    "variations": [
+      "digestible"
+    ],
+    "emoji": "😌🍽️",
+    "id": "gl110"
+  },
+  "digestion": {
+    "word": "digestion",
+    "definition": "the process by which the body breaks down food for use",
+    "variations": [
+      "digestion"
+    ],
+    "emoji": "🍽️🫃",
+    "id": "gl111"
+  },
+  "dinner": {
+    "word": "dinner",
+    "definition": "the main meal of the day, often eaten in the evening",
+    "variations": [
+      "dinner",
+      "dinners"
+    ],
+    "emoji": "🍽️🌙",
+    "id": "gl112"
+  },
+  "disability": {
+    "word": "disability",
+    "definition": "a physical or mental condition that makes some activities harder to do",
+    "variations": [
+      "disability",
+      "disabilities"
+    ],
+    "emoji": "♿🩺",
+    "id": "gl113"
+  },
+  "dish meal": {
+    "word": "dish meal",
+    "definition": "a meal served as one dish or as a small number of separate dishes",
+    "variations": [
+      "dish meal",
+      "dish meals"
+    ],
+    "emoji": "🍛🍽️",
+    "id": "gl114"
+  },
+  "dissolve": {
+    "word": "dissolve",
+    "definition": "to mix completely into a liquid so that it seems to disappear",
+    "variations": [
+      "dissolve",
+      "dissolves",
+      "dissolved",
+      "dissolving"
+    ],
+    "emoji": "💧🫠",
+    "id": "gl115"
+  },
+  "dough": {
+    "word": "dough",
+    "definition": "a thick mixture of flour and liquid used for making bread, pasta, and similar foods",
+    "variations": [
+      "dough"
+    ],
+    "emoji": "🍞🥣",
+    "id": "gl116"
+  },
+  "drain": {
+    "word": "drain",
+    "definition": "to remove extra liquid or oil from food",
+    "variations": [
+      "drain",
+      "drained",
+      "draining",
+      "drains"
+    ],
+    "emoji": "🍽️🫗",
+    "id": "gl117"
+  },
+  "drought-tolerant": {
+    "word": "drought-tolerant",
+    "definition": "able to grow well with very little water",
+    "variations": [
+      "drought-tolerant"
+    ],
+    "emoji": "☀️🌾",
+    "id": "gl118"
+  },
+  "durum wheat": {
+    "word": "durum wheat",
+    "definition": "a hard type of wheat that is commonly used to make semolina and pasta",
+    "variations": [
+      "durum wheat"
+    ],
+    "emoji": "🌾🍝",
+    "id": "gl119"
+  },
+  "elastic": {
+    "word": "elastic",
+    "definition": "able to stretch and return to its shape",
+    "variations": [
+      "elastic",
+      "elasticity"
+    ],
+    "emoji": "↔️🍞",
+    "id": "gl120"
+  },
+  "elasticity": {
+    "word": "elasticity",
+    "definition": "the ability of something to stretch and return to its shape",
+    "variations": [
+      "elasticity"
+    ],
+    "emoji": "↔️🫓",
+    "id": "gl121"
+  },
+  "elderly": {
+    "word": "elderly",
+    "definition": "old people, especially those in later stages of life",
+    "variations": [
+      "elderly"
+    ],
+    "emoji": "👵👴",
+    "id": "gl122"
+  },
+  "emaciated": {
+    "word": "emaciated",
+    "definition": "extremely thin and weak because of illness or lack of food",
+    "variations": [
+      "emaciated",
+      "emaciation"
+    ],
+    "emoji": "🦴😟",
+    "id": "gl123"
+  },
+  "embryo": {
+    "word": "embryo",
+    "definition": "the early living part inside a seed that can grow into a plant",
+    "variations": [
+      "embryo",
+      "embryos"
+    ],
+    "emoji": "🌱🫘",
+    "id": "gl124"
+  },
+  "emulsifier": {
+    "word": "emulsifier",
+    "definition": "a substance that helps two liquids like oil and water mix together",
+    "variations": [
+      "emulsifier",
+      "emulsifiers"
+    ],
+    "emoji": "🧴🔄",
+    "id": "gl125"
+  },
+  "endosperm": {
+    "word": "endosperm",
+    "definition": "the inner part of a grain that mainly contains starch",
+    "variations": [
+      "endosperm",
+      "endosperms"
+    ],
+    "emoji": "🌾",
+    "id": "gl126"
+  },
+  "endurance": {
+    "word": "endurance",
+    "definition": "the ability to continue doing hard physical activity for a long time",
+    "variations": [
+      "endurance"
+    ],
+    "emoji": "🏃💪",
+    "id": "gl127"
+  },
+  "energy": {
+    "word": "energy",
+    "definition": "the power the body gets from food to work, move, and grow",
+    "variations": [
+      "energy"
+    ],
+    "emoji": "⚡🍚",
+    "id": "gl128"
+  },
+  "enriched flour": {
+    "word": "enriched flour",
+    "definition": "flour that has nutrients added back after processing",
+    "variations": [
+      "enriched flour"
+    ],
+    "emoji": "🌾➕🥣",
+    "id": "gl129"
+  },
+  "entree": {
+    "word": "entree",
+    "definition": "the main part of a meal",
+    "variations": [
+      "entree",
+      "entrees"
+    ],
+    "emoji": "🍽️🍛",
+    "id": "gl130"
+  },
+  "enzyme": {
+    "word": "enzyme",
+    "definition": "a substance in living things that helps chemical changes happen, such as in digestion or food spoilage",
+    "variations": [
+      "enzyme",
+      "enzymes"
+    ],
+    "emoji": "🧪🔬",
+    "id": "gl131"
+  },
+  "extract": {
+    "word": "extract",
+    "definition": "a substance taken from a plant or other source for use in food or medicine",
+    "variations": [
+      "extract",
+      "extracts"
+    ],
+    "emoji": "🌿🧴",
+    "id": "gl132"
+  },
+  "extrusion": {
+    "word": "extrusion",
+    "definition": "a process of forcing soft material through a shaped opening to form a certain shape",
+    "variations": [
+      "extrusion",
+      "extrude",
+      "extruded"
+    ],
+    "emoji": "🏭🍝",
+    "id": "gl133"
+  },
+  "family meal": {
+    "word": "family meal",
+    "definition": "a meal shared by family members together",
+    "variations": [
+      "family meal",
+      "family meals"
+    ],
+    "emoji": "👨‍👩‍👧‍👦🍽️",
+    "id": "gl134"
+  },
+  "family planning": {
+    "word": "family planning",
+    "definition": "the use of methods to decide the number of children to have and when to have them",
+    "variations": [
+      "family planning"
+    ],
+    "emoji": "👨‍👩‍👧📅",
+    "id": "gl135"
+  },
+  "fat": {
+    "word": "fat",
+    "definition": "a nutrient that gives the body energy and helps protect organs, but too much can be unhealthy",
+    "variations": [
+      "fat",
+      "fats",
+      "fatty"
+    ],
+    "emoji": "🥑⚖️",
+    "id": "gl136"
+  },
+  "fatty foods": {
+    "word": "fatty foods",
+    "definition": "foods that contain a lot of fat",
+    "variations": [
+      "fatty food"
+    ],
+    "emoji": "🍟🧈",
+    "id": "gl137"
+  },
+  "fever": {
+    "word": "fever",
+    "definition": "a condition in which the body temperature is higher than normal",
+    "variations": [
+      "fever",
+      "fevers"
+    ],
+    "emoji": "🌡️🤒",
+    "id": "gl138"
+  },
+  "fibre": {
+    "word": "fibre",
+    "definition": "the part of plant food that helps digestion and keeps the bowels healthy",
+    "variations": [
+      "fibre"
+    ],
+    "emoji": "🥦🌾",
+    "id": "gl139"
+  },
+  "fibre-rich": {
+    "word": "fibre-rich",
+    "definition": "containing a lot of fibre, which helps digestion and slows sugar absorption",
+    "variations": [
+      "fibre rich",
+      "fibre"
+    ],
+    "emoji": "🌾🥬",
+    "id": "gl140"
+  },
+  "firm": {
+    "word": "firm",
+    "definition": "solid and not too soft",
+    "variations": [
+      "firm",
+      "firmer",
+      "firmest"
+    ],
+    "emoji": "👌🍞",
+    "id": "gl141"
+  },
+  "flavour": {
+    "word": "flavour",
+    "definition": "the taste of food or drink",
+    "variations": [
+      "flavour",
+      "flavours"
+    ],
+    "emoji": "👅🍬",
+    "id": "gl142"
+  },
+  "flavouring": {
+    "word": "flavouring",
+    "definition": "something added to food to give it a better or different taste and smell",
+    "variations": [
+      "flavouring",
+      "flavourings"
+    ],
+    "emoji": "🍲👅",
+    "id": "gl143"
+  },
+  "flour": {
+    "word": "flour",
+    "definition": "a powder made by grinding grains such as wheat, maize, or rice",
+    "variations": [
+      "flour",
+      "flours"
+    ],
+    "emoji": "🌾🥣",
+    "id": "gl144"
+  },
+  "foetus": {
+    "word": "foetus",
+    "definition": "a developing baby inside the mother before birth",
+    "variations": [
+      "foetus",
+      "foetuses"
+    ],
+    "emoji": "👶🤰",
+    "id": "gl145"
+  },
+  "folate": {
+    "word": "folate",
+    "definition": "a B vitamin that helps the body make new cells and is important during pregnancy",
+    "variations": [
+      "folate"
+    ],
+    "emoji": "💊👶",
+    "id": "gl146"
+  },
+  "folic acid": {
+    "word": "folic acid",
+    "definition": "vitamin B9, a vitamin important for making new body cells",
+    "variations": [
+      "folic acid",
+      "folate",
+      "vitamin B9"
+    ],
+    "emoji": "💊🧬",
+    "id": "gl147"
+  },
+  "food additive": {
+    "word": "food additive",
+    "definition": "a substance added to food to improve taste, colour, texture, or keeping quality",
+    "variations": [
+      "food additive",
+      "food additives"
+    ],
+    "emoji": "➕🍞",
+    "id": "gl148"
+  },
+  "food fortification": {
+    "word": "food fortification",
+    "definition": "the adding of vitamins and minerals to food to improve its nutritional value",
+    "variations": [
+      "food fortification",
+      "fortification"
+    ],
+    "emoji": "🍚➕💊",
+    "id": "gl149"
+  },
+  "food-borne illness": {
+    "word": "food-borne illness",
+    "definition": "a sickness caused by eating contaminated food",
+    "variations": [
+      "food-borne illness",
+      "food-borne illnesses"
+    ],
+    "emoji": "🤒🍽️",
+    "id": "gl150"
+  },
+  "formal table setting": {
+    "word": "formal table setting",
+    "definition": "a neat and organised arrangement of tableware for special meals with several courses",
+    "variations": [
+      "formal table settings"
+    ],
+    "emoji": "🍷🍽️",
+    "id": "gl151"
+  },
+  "fortification": {
+    "word": "fortification",
+    "definition": "the process of adding vitamins or minerals to food to make it healthier",
+    "variations": [
+      "fortification",
+      "fortified",
+      "fortify"
+    ],
+    "emoji": "🧂➕🥣",
+    "id": "gl152"
+  },
+  "fortified": {
+    "word": "fortified",
+    "definition": "having extra nutrients added to food, such as vitamins or minerals",
+    "variations": [
+      "fortified",
+      "fortify",
+      "fortification"
+    ],
+    "emoji": "🥛🧂➕",
+    "id": "gl153"
+  },
+  "fresh": {
+    "word": "fresh",
+    "definition": "good to eat because it is new, not old, and not spoiled",
+    "variations": [
+      "fresh",
+      "freshness"
+    ],
+    "emoji": "🥬✨",
+    "id": "gl154"
+  },
+  "fritter": {
+    "word": "fritter",
+    "definition": "a piece of food covered in batter and fried",
+    "variations": [
+      "fritter",
+      "fritters"
+    ],
+    "emoji": "🍌🍽️",
+    "id": "gl155"
+  },
+  "fungus": {
+    "word": "fungus",
+    "definition": "a living organism such as mould that can grow on food or plants",
+    "variations": [
+      "fungus",
+      "fungi"
+    ],
+    "emoji": "🍄🦠",
+    "id": "gl156"
+  },
+  "garnish": {
+    "word": "garnish",
+    "definition": "to decorate food with small pieces of food or herbs to improve appearance",
+    "variations": [
+      "garnish",
+      "garnishing",
+      "garnished"
+    ],
+    "emoji": "🍽️🌿",
+    "id": "gl157"
+  },
+  "gel": {
+    "word": "gel",
+    "definition": "a soft thick substance between a liquid and a solid",
+    "variations": [
+      "gel",
+      "gels"
+    ],
+    "emoji": "🫙🥄",
+    "id": "gl158"
+  },
+  "gelatine": {
+    "word": "gelatine",
+    "definition": "a substance used to make foods thicker or more jelly-like",
+    "variations": [
+      "gelatine"
+    ],
+    "emoji": "🍮🧁",
+    "id": "gl159"
+  },
+  "germ": {
+    "word": "germ",
+    "definition": "the part of a grain that can grow into a new plant and contains fat and nutrients",
+    "variations": [
+      "germ",
+      "germs"
+    ],
+    "emoji": "🌱🌾",
+    "id": "gl160"
+  },
+  "germination": {
+    "word": "germination",
+    "definition": "the sprouting of grains or seeds after soaking in water",
+    "variations": [
+      "germination",
+      "germinations"
+    ],
+    "emoji": "🌱💧",
+    "id": "gl161"
+  },
+  "ginger": {
+    "word": "ginger",
+    "definition": "a root used as a spice to add a hot and fresh flavour to food and drinks",
+    "variations": [
+      "ginger"
+    ],
+    "emoji": "🫚🍪",
+    "id": "gl162"
+  },
+  "glazing agent": {
+    "word": "glazing agent",
+    "definition": "a substance used to give food a smooth or shiny surface",
+    "variations": [
+      "glazing agent",
+      "glazing agents"
+    ],
+    "emoji": "✨🍬",
+    "id": "gl163"
+  },
+  "glucose": {
+    "word": "glucose",
+    "definition": "a simple sugar used by the body for energy",
+    "variations": [],
+    "emoji": "🍬⚡",
+    "id": "gl164"
+  },
+  "gluten": {
+    "word": "gluten",
+    "definition": "a protein in wheat that helps dough stretch and hold together",
+    "variations": [
+      "gluten"
+    ],
+    "emoji": "🌾🍞",
+    "id": "gl165"
+  },
+  "gluten development": {
+    "word": "gluten development",
+    "definition": "the forming of gluten in dough that gives baked products structure and stretch",
+    "variations": [
+      "gluten development"
+    ],
+    "emoji": "🍞↔️",
+    "id": "gl166"
+  },
+  "gluten intolerance": {
+    "word": "gluten intolerance",
+    "definition": "a condition in which a person feels sick or uncomfortable after eating gluten",
+    "variations": [
+      "gluten intolerance"
+    ],
+    "emoji": "🍞⚠️",
+    "id": "gl167"
+  },
+  "glycogen": {
+    "word": "glycogen",
+    "definition": "a form of stored sugar in the body that is used for energy during activity",
+    "variations": [
+      "glycogen"
+    ],
+    "emoji": "💪⚡",
+    "id": "gl168"
+  },
+  "goitre": {
+    "word": "goitre",
+    "definition": "an abnormal swelling of the thyroid gland in the neck, often caused by lack of iodine",
+    "variations": [
+      "goitre"
+    ],
+    "emoji": "🦋😮",
+    "id": "gl169"
+  },
+  "grain": {
+    "word": "grain",
+    "definition": "a small hard seed of crops like maize, rice, or wheat used as food",
+    "variations": [
+      "grain",
+      "grains"
+    ],
+    "emoji": "🌾🟤",
+    "id": "gl170"
+  },
+  "grate": {
+    "word": "grate",
+    "definition": "to cut food into very small pieces by rubbing it on a rough surface",
+    "variations": [
+      "grate",
+      "grated",
+      "grating",
+      "grates"
+    ],
+    "emoji": "🥕🔪",
+    "id": "gl171"
+  },
+  "guideline": {
+    "word": "guideline",
+    "definition": "a rule or advice that helps people do something correctly",
+    "variations": [
+      "guideline",
+      "guidelines"
+    ],
+    "emoji": "📘✅",
+    "id": "gl172"
+  },
+  "haemoglobin": {
+    "word": "haemoglobin",
+    "definition": "a protein in red blood cells that carries oxygen around the body",
+    "variations": [
+      "haemoglobin"
+    ],
+    "emoji": "🩸💨",
+    "id": "gl173"
+  },
+  "hazard": {
+    "word": "hazard",
+    "definition": "something that can cause harm or danger",
+    "variations": [
+      "hazard",
+      "hazards"
+    ],
+    "emoji": "⚠️🚫",
+    "id": "gl174"
+  },
+  "heartburn": {
+    "word": "heartburn",
+    "definition": "a burning feeling in the chest caused by stomach acid",
+    "variations": [
+      "heartburn"
+    ],
+    "emoji": "🔥😖",
+    "id": "gl175"
+  },
+  "herb": {
+    "word": "herb",
+    "definition": "a plant or part of a plant, often leaves, used to add flavour, smell, or appearance to food",
+    "variations": [
+      "herb",
+      "herbs"
+    ],
+    "emoji": "🌿🍃",
+    "id": "gl176"
+  },
+  "home gardening": {
+    "word": "home gardening",
+    "definition": "growing vegetables, fruits, or other plants in a small area near the home",
+    "variations": [
+      "home garden",
+      "home gardens",
+      "home gardening"
+    ],
+    "emoji": "🏡🌱🥕",
+    "id": "gl177"
+  },
+  "husk": {
+    "word": "husk",
+    "definition": "the outer covering of a seed or grain",
+    "variations": [
+      "husk",
+      "husks"
+    ],
+    "emoji": "🌽🧺",
+    "id": "gl178"
+  },
+  "hydration": {
+    "word": "hydration",
+    "definition": "having enough water in the body",
+    "variations": [
+      "hydration",
+      "hydrate",
+      "hydrated"
+    ],
+    "emoji": "💧😊",
+    "id": "gl179"
+  },
+  "hygiene": {
+    "word": "hygiene",
+    "definition": "clean habits that help prevent disease, such as washing hands and keeping food clean",
+    "variations": [
+      "hygiene",
+      "hygienic"
+    ],
+    "emoji": "🧼🫧",
+    "id": "gl180"
+  },
+  "hypertension": {
+    "word": "hypertension",
+    "definition": "high blood pressure",
+    "variations": [
+      "hypertension"
+    ],
+    "emoji": "❤️⬆️",
+    "id": "gl181"
+  },
+  "immune system": {
+    "word": "immune system",
+    "definition": "the body’s defence system that fights disease and infection",
+    "variations": [
+      "immunity"
+    ],
+    "emoji": "🛡️🦠",
+    "id": "gl182"
+  },
+  "immunisation": {
+    "word": "immunisation",
+    "definition": "the process of protecting a person from disease, usually by vaccination",
+    "variations": [
+      "immunisation",
+      "immunisations",
+      "immunize",
+      "immunized"
+    ],
+    "emoji": "💉🛡️",
+    "id": "gl183"
+  },
+  "immunity": {
+    "word": "immunity",
+    "definition": "the body’s ability to fight diseases and infections",
+    "variations": [
+      "immunity",
+      "immune"
+    ],
+    "emoji": "🛡️💪",
+    "id": "gl184"
+  },
+  "immunization": {
+    "word": "immunization",
+    "definition": "the process of protecting a person from disease by giving a vaccine",
+    "variations": [
+      "immunization",
+      "immunizations"
+    ],
+    "emoji": "💉🛡️",
+    "id": "gl185"
+  },
+  "infant": {
+    "word": "infant",
+    "definition": "a very young child or baby",
+    "variations": [
+      "infant",
+      "infants"
+    ],
+    "emoji": "👶🍼",
+    "id": "gl186"
+  },
+  "infection": {
+    "word": "infection",
+    "definition": "an illness caused by harmful germs entering the body",
+    "variations": [
+      "infection",
+      "infections"
+    ],
+    "emoji": "🦠🤒",
+    "id": "gl187"
+  },
+  "infectious disease": {
+    "word": "infectious disease",
+    "definition": "an illness that can be caused by germs and can spread from one person to another",
+    "variations": [
+      "infectious disease",
+      "infectious diseases"
+    ],
+    "emoji": "🦠🤒",
+    "id": "gl188"
+  },
+  "infestation": {
+    "word": "infestation",
+    "definition": "the presence of many pests in stored food or a place",
+    "variations": [
+      "infestation",
+      "infestations"
+    ],
+    "emoji": "🐛📦",
+    "id": "gl189"
+  },
+  "informal table setting": {
+    "word": "informal table setting",
+    "definition": "a simple table arrangement for an ordinary meal with fewer items",
+    "variations": [
+      "informal table settings"
+    ],
+    "emoji": "🍽️🙂",
+    "id": "gl190"
+  },
+  "ingredient": {
+    "word": "ingredient",
+    "definition": "one of the foods or materials used to make a dish",
+    "variations": [
+      "ingredient",
+      "ingredients"
+    ],
+    "emoji": "🥕🥚",
+    "id": "gl191"
+  },
+  "inhibit": {
+    "word": "inhibit",
+    "definition": "to slow down or stop something from happening",
+    "variations": [
+      "inhibit",
+      "inhibiting",
+      "inhibits"
+    ],
+    "emoji": "🛑✋",
+    "id": "gl192"
+  },
+  "Intelligent Quotient": {
+    "word": "Intelligent Quotient",
+    "definition": "a measure of a person’s reasoning and thinking ability",
+    "variations": [
+      "Intelligent Quotient",
+      "IQ"
+    ],
+    "emoji": "🧠📘",
+    "id": "gl193"
+  },
+  "intolerance": {
+    "word": "intolerance",
+    "definition": "difficulty in handling certain foods or substances without feeling unwell",
+    "variations": [
+      "intolerance",
+      "intolerances"
+    ],
+    "emoji": "🚫🥛",
+    "id": "gl194"
+  },
+  "invalid": {
+    "word": "invalid",
+    "definition": "a person who is weak or ill and needs care",
+    "variations": [
+      "invalid",
+      "invalids"
+    ],
+    "emoji": "🛌🤕",
+    "id": "gl195"
+  },
+  "invalids": {
+    "word": "invalids",
+    "definition": "people who are sick, weak, and unable to take care of themselves",
+    "variations": [
+      "invalid"
+    ],
+    "emoji": "🤒🛏️",
+    "id": "gl196"
+  },
+  "iodine deficiency disorder": {
+    "word": "iodine deficiency disorder",
+    "definition": "health problems caused by not getting enough iodine in the diet",
+    "variations": [
+      "iodine deficiency disorder",
+      "iodine deficiency disorders"
+    ],
+    "emoji": "🧂⚕️",
+    "id": "gl197"
+  },
+  "iron": {
+    "word": "iron",
+    "definition": "a mineral needed by the body to help make haemoglobin and keep blood healthy",
+    "variations": [
+      "iron"
+    ],
+    "emoji": "🩸🥬",
+    "id": "gl198"
+  },
+  "iron-rich": {
+    "word": "iron-rich",
+    "definition": "containing a lot of iron, a mineral needed for healthy blood",
+    "variations": [
+      "iron rich"
+    ],
+    "emoji": "🩸🥬",
+    "id": "gl199"
+  },
+  "kernel": {
+    "word": "kernel",
+    "definition": "the seed or edible inner part of a grain such as maize",
+    "variations": [
+      "kernel",
+      "kernels"
+    ],
+    "emoji": "🌽🟡",
+    "id": "gl200"
+  },
+  "ketchup": {
+    "word": "ketchup",
+    "definition": "a thick tomato-based condiment eaten with many foods",
+    "variations": [
+      "ketchup"
+    ],
+    "emoji": "🍅🍟",
+    "id": "gl201"
+  },
+  "knead": {
+    "word": "knead",
+    "definition": "to press and fold dough with the hands to make it smooth and elastic",
+    "variations": [
+      "knead",
+      "kneads",
+      "kneaded",
+      "kneading"
+    ],
+    "emoji": "✋🍞",
+    "id": "gl202"
+  },
+  "kwashiorkor": {
+    "word": "kwashiorkor",
+    "definition": "a severe form of malnutrition, often caused by lack of protein, that can cause swelling and other serious signs",
+    "variations": [
+      "kwashiorkor"
+    ],
+    "emoji": "⚠️🧒",
+    "id": "gl203"
+  },
+  "lactating": {
+    "word": "lactating",
+    "definition": "producing milk for feeding a baby",
+    "variations": [
+      "lactating",
+      "lactation"
+    ],
+    "emoji": "🤱🍼",
+    "id": "gl204"
+  },
+  "lactating mother": {
+    "word": "lactating mother",
+    "definition": "a mother who is producing milk to feed her baby",
+    "variations": [
+      "lactating mother",
+      "lactating mothers"
+    ],
+    "emoji": "🤱🍼",
+    "id": "gl205"
+  },
+  "lactation": {
+    "word": "lactation",
+    "definition": "the period when a mother produces milk for her baby",
+    "variations": [
+      "lactation",
+      "lactating"
+    ],
+    "emoji": "🍼👩",
+    "id": "gl206"
+  },
+  "lacto-ovo vegetarians": {
+    "word": "lacto-ovo vegetarians",
+    "definition": "vegetarians who eat plant foods, dairy products, and eggs",
+    "variations": [
+      "lacto-ovo vegetarian"
+    ],
+    "emoji": "🥛🥚🌿",
+    "id": "gl207"
+  },
+  "lacto-vegetarians": {
+    "word": "lacto-vegetarians",
+    "definition": "vegetarians who eat plant foods and dairy products like milk and cheese",
+    "variations": [
+      "lacto-vegetarian"
+    ],
+    "emoji": "🥛🌿",
+    "id": "gl208"
+  },
+  "legumes": {
+    "word": "legumes",
+    "definition": "plants such as beans and peas that are eaten as food and are rich in protein",
+    "variations": [
+      "legume"
+    ],
+    "emoji": "🫘🌱",
+    "id": "gl209"
+  },
+  "ligament": {
+    "word": "ligament",
+    "definition": "a strong band in the body that connects bones at a joint",
+    "variations": [
+      "ligament",
+      "ligaments"
+    ],
+    "emoji": "🦴🔗",
+    "id": "gl210"
+  },
+  "livestock": {
+    "word": "livestock",
+    "definition": "farm animals kept for food or other useful products",
+    "variations": [
+      "livestock"
+    ],
+    "emoji": "🐄🐐🐓",
+    "id": "gl211"
+  },
+  "low birthweight": {
+    "word": "low birthweight",
+    "definition": "a condition in which a baby is born weighing less than 2.5 kilograms",
+    "variations": [
+      "low birthweight"
+    ],
+    "emoji": "👶⚖️",
+    "id": "gl212"
+  },
+  "lump": {
+    "word": "lump",
+    "definition": "a small hard piece in a mixture that should be smooth",
+    "variations": [
+      "lump",
+      "lumps"
+    ],
+    "emoji": "🥣",
+    "id": "gl213"
+  },
+  "lunch": {
+    "word": "lunch",
+    "definition": "a meal eaten in the middle of the day",
+    "variations": [
+      "lunch",
+      "lunches"
+    ],
+    "emoji": "🥪🕛",
+    "id": "gl214"
+  },
+  "main course": {
+    "word": "main course",
+    "definition": "the most important and usually largest part of a meal",
+    "variations": [
+      "main course",
+      "main courses"
+    ],
+    "emoji": "🍗🍛",
+    "id": "gl215"
+  },
+  "maize": {
+    "word": "maize",
+    "definition": "a cereal plant also called corn, grown for its grains",
+    "variations": [
+      "maize"
+    ],
+    "emoji": "🌽",
+    "id": "gl216"
+  },
+  "malnutrition": {
+    "word": "malnutrition",
+    "definition": "a health condition that happens when the body does not get the right amount of nutrients from food",
+    "variations": [
+      "malnutrition",
+      "malnourished"
+    ],
+    "emoji": "🍽️⚕️",
+    "id": "gl217"
+  },
+  "manual worker": {
+    "word": "manual worker",
+    "definition": "a person whose job involves hard physical work",
+    "variations": [
+      "manual worker",
+      "manual workers"
+    ],
+    "emoji": "👷💪",
+    "id": "gl218"
+  },
+  "marasmus": {
+    "word": "marasmus",
+    "definition": "a severe form of malnutrition caused by lack of enough energy and nutrients, leading to extreme thinness",
+    "variations": [
+      "marasmus"
+    ],
+    "emoji": "🧒🍽️⚠️",
+    "id": "gl219"
+  },
+  "marinate": {
+    "word": "marinate",
+    "definition": "to soak food in a seasoned liquid before cooking so it gains flavour",
+    "variations": [
+      "marinate",
+      "marinating",
+      "marinated"
+    ],
+    "emoji": "🥩🥣",
+    "id": "gl220"
+  },
+  "maternal": {
+    "word": "maternal",
+    "definition": "relating to a mother",
+    "variations": [
+      "maternal"
+    ],
+    "emoji": "🤰👩",
+    "id": "gl221"
+  },
+  "mayonnaise": {
+    "word": "mayonnaise",
+    "definition": "a thick creamy condiment made for adding flavour to foods like salads and sandwiches",
+    "variations": [
+      "mayonnaise"
+    ],
+    "emoji": "🥪🥗",
+    "id": "gl222"
+  },
+  "meal planning": {
+    "word": "meal planning",
+    "definition": "the process of deciding in advance what meals will be prepared and eaten",
+    "variations": [
+      "meal planning",
+      "plan meals",
+      "planned meals"
+    ],
+    "emoji": "📋🍽️",
+    "id": "gl223"
+  },
+  "menstruation": {
+    "word": "menstruation",
+    "definition": "the monthly flow of blood from a woman’s body when she is not pregnant",
+    "variations": [
+      "menstruation",
+      "menstrual"
+    ],
+    "emoji": "🩸📅",
+    "id": "gl224"
+  },
+  "menu": {
+    "word": "menu",
+    "definition": "a list of dishes to be served at a meal or event",
+    "variations": [
+      "menus"
+    ],
+    "emoji": "📋🍲",
+    "id": "gl225"
+  },
+  "metabolic processes": {
+    "word": "metabolic processes",
+    "definition": "the chemical activities in the body that change food into energy and help the body work",
+    "variations": [
+      "metabolic process",
+      "metabolism"
+    ],
+    "emoji": "⚙️🔥",
+    "id": "gl226"
+  },
+  "metabolism": {
+    "word": "metabolism",
+    "definition": "the process by which the body changes food into energy and uses it for growth and repair",
+    "variations": [
+      "metabolism",
+      "metabolic",
+      "metabolised"
+    ],
+    "emoji": "🔥⚙️",
+    "id": "gl227"
+  },
+  "micronutrient": {
+    "word": "micronutrient",
+    "definition": "a vitamin or mineral needed by the body in small amounts for good health",
+    "variations": [
+      "micronutrient",
+      "micronutrients"
+    ],
+    "emoji": "💊🥬",
+    "id": "gl228"
+  },
+  "microorganism": {
+    "word": "microorganism",
+    "definition": "a very tiny living thing, such as bacteria or fungi, that can spoil food or cause disease",
+    "variations": [
+      "microorganism",
+      "microorganisms"
+    ],
+    "emoji": "🦠🔬",
+    "id": "gl229"
+  },
+  "millet": {
+    "word": "millet",
+    "definition": "a very small cereal grain used as food",
+    "variations": [
+      "millet",
+      "millets"
+    ],
+    "emoji": "🌾🟤",
+    "id": "gl230"
+  },
+  "milling": {
+    "word": "milling",
+    "definition": "the process of grinding grain into flour or removing outer layers from grains",
+    "variations": [
+      "mill",
+      "milled",
+      "milling",
+      "mills"
+    ],
+    "emoji": "🌾⚙️",
+    "id": "gl231"
+  },
+  "minced meat": {
+    "word": "minced meat",
+    "definition": "meat cut or ground into very small pieces",
+    "variations": [
+      "minced meat"
+    ],
+    "emoji": "🥩🔪",
+    "id": "gl232"
+  },
+  "mineral": {
+    "word": "mineral",
+    "definition": "a nutrient the body needs in small amounts for good health",
+    "variations": [
+      "mineral",
+      "minerals"
+    ],
+    "emoji": "🦴🥬",
+    "id": "gl233"
+  },
+  "mineral salts": {
+    "word": "mineral salts",
+    "definition": "important substances in food, such as calcium and iron, that help the body stay healthy",
+    "variations": [
+      "mineral salt"
+    ],
+    "emoji": "🧂🦴",
+    "id": "gl234"
+  },
+  "miscarriage": {
+    "word": "miscarriage",
+    "definition": "the loss of a baby before it is born",
+    "variations": [
+      "miscarriage",
+      "miscarriages"
+    ],
+    "emoji": "💔🤰",
+    "id": "gl235"
+  },
+  "monotonous diet": {
+    "word": "monotonous diet",
+    "definition": "a diet with the same foods again and again, with little variety",
+    "variations": [
+      "monotonous diets"
+    ],
+    "emoji": "🍽️😐",
+    "id": "gl236"
+  },
+  "monotony": {
+    "word": "monotony",
+    "definition": "lack of variety; being the same again and again",
+    "variations": [
+      "monotony"
+    ],
+    "emoji": "🔁😐",
+    "id": "gl237"
+  },
+  "mould": {
+    "word": "mould",
+    "definition": "a container used to shape food as it sets",
+    "variations": [
+      "mould",
+      "moulds",
+      "moulded",
+      "moulding"
+    ],
+    "emoji": "🍮🧩",
+    "id": "gl238"
+  },
+  "mouthfeel": {
+    "word": "mouthfeel",
+    "definition": "the way food feels in your mouth when you eat it",
+    "variations": [
+      "mouthfeel"
+    ],
+    "emoji": "👄🥄",
+    "id": "gl239"
+  },
+  "mustard": {
+    "word": "mustard",
+    "definition": "a spice or condiment made from seeds, used to add a sharp taste to food",
+    "variations": [
+      "mustard"
+    ],
+    "emoji": "🌭🟡",
+    "id": "gl240"
+  },
+  "mycotoxin": {
+    "word": "mycotoxin",
+    "definition": "a harmful poison made by some fungi that can grow on food such as grains",
+    "variations": [
+      "mycotoxin",
+      "mycotoxins"
+    ],
+    "emoji": "🍞⚠️🦠",
+    "id": "gl241"
+  },
+  "napkin": {
+    "word": "napkin",
+    "definition": "a piece of cloth or paper used to wipe the mouth and hands while eating",
+    "variations": [
+      "napkins"
+    ],
+    "emoji": "🧻🍽️",
+    "id": "gl242"
+  },
+  "neural tube defects": {
+    "word": "neural tube defects",
+    "definition": "birth defects that affect the baby’s brain or spinal cord during early development",
+    "variations": [
+      "neural tube defect",
+      "neural tube defects"
+    ],
+    "emoji": "🧠👶",
+    "id": "gl243"
+  },
+  "niacin": {
+    "word": "niacin",
+    "definition": "vitamin B3, a vitamin that helps the body release energy from food",
+    "variations": [
+      "niacin",
+      "vitamin B3"
+    ],
+    "emoji": "💊⚡",
+    "id": "gl244"
+  },
+  "night blindness": {
+    "word": "night blindness",
+    "definition": "difficulty seeing clearly in low light or in the dark",
+    "variations": [
+      "night blindness"
+    ],
+    "emoji": "🌙👁️",
+    "id": "gl245"
+  },
+  "non-haem iron": {
+    "word": "non-haem iron",
+    "definition": "iron found in plant foods, which is not absorbed as easily as iron from animal foods",
+    "variations": [],
+    "emoji": "🥬🩸",
+    "id": "gl246"
+  },
+  "non-perishable": {
+    "word": "non-perishable",
+    "definition": "able to stay good for a long time without spoiling quickly",
+    "variations": [
+      "non-perishable"
+    ],
+    "emoji": "📦🕒",
+    "id": "gl247"
+  },
+  "nutmeg": {
+    "word": "nutmeg",
+    "definition": "a seed spice used to add warm flavour to sweet or savoury foods",
+    "variations": [
+      "nutmeg"
+    ],
+    "emoji": "🥧🌰",
+    "id": "gl248"
+  },
+  "nutrient": {
+    "word": "nutrient",
+    "definition": "a substance in food that helps the body grow, stay healthy, and work properly",
+    "variations": [
+      "nutrient",
+      "nutrients"
+    ],
+    "emoji": "🥦💪",
+    "id": "gl249"
+  },
+  "nutrient absorption": {
+    "word": "nutrient absorption",
+    "definition": "the taking in of useful food substances from digested food into the body",
+    "variations": [
+      "absorption",
+      "absorb"
+    ],
+    "emoji": "⬇️🥗",
+    "id": "gl250"
+  },
+  "nutrition": {
+    "word": "nutrition",
+    "definition": "the process of getting and using food and nutrients for growth, energy, and health",
+    "variations": [
+      "nutrition",
+      "nutritional"
+    ],
+    "emoji": "🥗💪",
+    "id": "gl251"
+  },
+  "nutrition education": {
+    "word": "nutrition education",
+    "definition": "teaching people how to choose and eat foods that keep them healthy",
+    "variations": [
+      "nutrition education"
+    ],
+    "emoji": "📘🥗",
+    "id": "gl252"
+  },
+  "nutritional status": {
+    "word": "nutritional status",
+    "definition": "the condition of a person’s health as affected by the food and nutrients they get",
+    "variations": [
+      "nutritional status"
+    ],
+    "emoji": "🍎📊",
+    "id": "gl253"
+  },
+  "nutritionally dense": {
+    "word": "nutritionally dense",
+    "definition": "containing a lot of useful nutrients in a small amount of food",
+    "variations": [],
+    "emoji": "🥗💚",
+    "id": "gl254"
+  },
+  "nutritive value": {
+    "word": "nutritive value",
+    "definition": "the usefulness of food in giving the body nutrients",
+    "variations": [
+      "nutritive value",
+      "nutritive values"
+    ],
+    "emoji": "💪🥗",
+    "id": "gl255"
+  },
+  "oats": {
+    "word": "oats",
+    "definition": "a cereal grain often used for porridge and other foods",
+    "variations": [
+      "oat",
+      "oats"
+    ],
+    "emoji": "🥣🌾",
+    "id": "gl256"
+  },
+  "obesity": {
+    "word": "obesity",
+    "definition": "a condition in which too much body fat builds up and may harm health",
+    "variations": [
+      "obesity",
+      "obese"
+    ],
+    "emoji": "⚖️🍔",
+    "id": "gl257"
+  },
+  "occupation": {
+    "word": "occupation",
+    "definition": "the kind of work a person does",
+    "variations": [
+      "occupation",
+      "occupations"
+    ],
+    "emoji": "💼👷",
+    "id": "gl258"
+  },
+  "oedema": {
+    "word": "oedema",
+    "definition": "swelling in the body caused by too much fluid collecting in the tissues",
+    "variations": [
+      "oedema"
+    ],
+    "emoji": "💧🦵",
+    "id": "gl259"
+  },
+  "osteomalacia": {
+    "word": "osteomalacia",
+    "definition": "softening and weakening of bones in adults, often caused by lack of vitamin D, calcium, or phosphate",
+    "variations": [
+      "osteomalacia"
+    ],
+    "emoji": "🦴⚠️",
+    "id": "gl260"
+  },
+  "osteoporosis": {
+    "word": "osteoporosis",
+    "definition": "a condition in which bones become weak and break easily",
+    "variations": [
+      "osteoporosis"
+    ],
+    "emoji": "🦴⚠️",
+    "id": "gl261"
+  },
+  "overnutrition": {
+    "word": "overnutrition",
+    "definition": "a condition caused by eating too much food or too many nutrients",
+    "variations": [
+      "overnutrition"
+    ],
+    "emoji": "🍔⚖️",
+    "id": "gl262"
+  },
+  "overweight": {
+    "word": "overweight",
+    "definition": "weighing more than is considered healthy for a person’s height or age",
+    "variations": [
+      "overweight"
+    ],
+    "emoji": "⚖️⬆️",
+    "id": "gl263"
+  },
+  "ovo-vegetarians": {
+    "word": "ovo-vegetarians",
+    "definition": "vegetarians who eat plant foods and eggs but not dairy products or meat",
+    "variations": [
+      "ovo-vegetarian"
+    ],
+    "emoji": "🥚🌿",
+    "id": "gl264"
+  },
+  "oxidation": {
+    "word": "oxidation",
+    "definition": "a chemical change caused by air that can spoil food",
+    "variations": [
+      "oxidation",
+      "oxidise",
+      "oxidized"
+    ],
+    "emoji": "🌬️🍎",
+    "id": "gl265"
+  },
+  "oxidise": {
+    "word": "oxidise",
+    "definition": "to react with oxygen, often causing food fats to spoil",
+    "variations": [
+      "oxidise",
+      "oxidised",
+      "oxidising",
+      "oxidation"
+    ],
+    "emoji": "🌬️🧈",
+    "id": "gl266"
+  },
+  "paddy": {
+    "word": "paddy",
+    "definition": "rice grain before the husk is removed",
+    "variations": [
+      "paddy",
+      "paddies"
+    ],
+    "emoji": "🌾🍚",
+    "id": "gl267"
+  },
+  "palatable": {
+    "word": "palatable",
+    "definition": "pleasant to taste and easy to enjoy eating",
+    "variations": [
+      "palatable"
+    ],
+    "emoji": "😋🍽️",
+    "id": "gl268"
+  },
+  "paprika": {
+    "word": "paprika",
+    "definition": "a red powder spice made from dried peppers",
+    "variations": [
+      "paprika"
+    ],
+    "emoji": "🌶️🔴",
+    "id": "gl269"
+  },
+  "parboiled rice": {
+    "word": "parboiled rice",
+    "definition": "rice partly cooked before milling to help keep nutrients inside the grain",
+    "variations": [
+      "parboiled rice"
+    ],
+    "emoji": "🍚♨️",
+    "id": "gl270"
+  },
+  "parsley": {
+    "word": "parsley",
+    "definition": "a green herb used to add flavor or decorate food",
+    "variations": [
+      "parsley",
+      "parsleys"
+    ],
+    "emoji": "🌿🥗",
+    "id": "gl271"
+  },
+  "paste": {
+    "word": "paste",
+    "definition": "a thick, smooth mixture made by mixing powder with liquid",
+    "variations": [
+      "paste",
+      "pastes"
+    ],
+    "emoji": "🥣🔄",
+    "id": "gl272"
+  },
+  "pastry": {
+    "word": "pastry",
+    "definition": "a baked food made from dough, often light and flaky or soft",
+    "variations": [
+      "pastry",
+      "pastries"
+    ],
+    "emoji": "🥐🥧",
+    "id": "gl273"
+  },
+  "pathogen": {
+    "word": "pathogen",
+    "definition": "a tiny organism that causes disease",
+    "variations": [
+      "pathogen",
+      "pathogens"
+    ],
+    "emoji": "🦠🤒",
+    "id": "gl274"
+  },
+  "pellagra": {
+    "word": "pellagra",
+    "definition": "a disease caused mainly by lack of vitamin B3, affecting the skin, digestion, and nervous system",
+    "variations": [
+      "pellagra"
+    ],
+    "emoji": "🍚🧠 त्व?",
+    "id": "gl275"
+  },
+  "phosphorus": {
+    "word": "phosphorus",
+    "definition": "a mineral that helps keep bones and teeth strong and supports body functions",
+    "variations": [],
+    "emoji": "🦴⚙️",
+    "id": "gl276"
+  },
+  "physical activity": {
+    "word": "physical activity",
+    "definition": "any movement of the body that uses energy",
+    "variations": [
+      "physical activity",
+      "physical activities"
+    ],
+    "emoji": "🏃🚶",
+    "id": "gl277"
+  },
+  "physiological": {
+    "word": "physiological",
+    "definition": "related to how the body works and its natural processes",
+    "variations": [
+      "physiological",
+      "physiology"
+    ],
+    "emoji": "🫀🔬",
+    "id": "gl278"
+  },
+  "phytic acid": {
+    "word": "phytic acid",
+    "definition": "a natural substance in cereals that can reduce the absorption of some minerals",
+    "variations": [
+      "phytic acid"
+    ],
+    "emoji": "🧪🌾",
+    "id": "gl279"
+  },
+  "pickle": {
+    "word": "pickle",
+    "definition": "a fruit or vegetable preserved in vinegar, brine, or by fermentation",
+    "variations": [
+      "pickle",
+      "pickles"
+    ],
+    "emoji": "🥒🫙",
+    "id": "gl280"
+  },
+  "placenta": {
+    "word": "placenta",
+    "definition": "the organ in a pregnant woman’s body that gives food and oxygen to the developing baby",
+    "variations": [
+      "placenta"
+    ],
+    "emoji": "🤰👶",
+    "id": "gl281"
+  },
+  "polished rice": {
+    "word": "polished rice",
+    "definition": "rice that has had its outer layers removed, making it smoother but less nutritious",
+    "variations": [
+      "polished rice"
+    ],
+    "emoji": "🍚⚪",
+    "id": "gl282"
+  },
+  "population": {
+    "word": "population",
+    "definition": "a group of people living in an area or being discussed as a group",
+    "variations": [
+      "population",
+      "populations"
+    ],
+    "emoji": "👥🌍",
+    "id": "gl283"
+  },
+  "porridge": {
+    "word": "porridge",
+    "definition": "a soft hot food made by boiling grains or flour in water or milk",
+    "variations": [
+      "porridge",
+      "porridges"
+    ],
+    "emoji": "🥣🌾",
+    "id": "gl284"
+  },
+  "postnatal care": {
+    "word": "postnatal care",
+    "definition": "health care given to the mother and baby after birth",
+    "variations": [
+      "postnatal care"
+    ],
+    "emoji": "👶🏥",
+    "id": "gl285"
+  },
+  "preference": {
+    "word": "preference",
+    "definition": "a greater liking for one thing than another",
+    "variations": [
+      "preference",
+      "preferences",
+      "prefer",
+      "preferred"
+    ],
+    "emoji": "👍🍲",
+    "id": "gl286"
+  },
+  "pregnancy": {
+    "word": "pregnancy",
+    "definition": "the condition of carrying a developing baby in the womb",
+    "variations": [
+      "pregnancy",
+      "pregnant"
+    ],
+    "emoji": "🤰👶",
+    "id": "gl287"
+  },
+  "preheat": {
+    "word": "preheat",
+    "definition": "to heat an oven before putting food in it",
+    "variations": [
+      "preheat",
+      "preheated",
+      "preheating"
+    ],
+    "emoji": "🔥🍽️",
+    "id": "gl288"
+  },
+  "preservation": {
+    "word": "preservation",
+    "definition": "the process of keeping food from spoiling",
+    "variations": [
+      "preservation",
+      "preserve",
+      "preserved",
+      "preserving"
+    ],
+    "emoji": "🫙❄️",
+    "id": "gl289"
+  },
+  "preservative": {
+    "word": "preservative",
+    "definition": "a substance added to food to stop it from spoiling quickly",
+    "variations": [
+      "preservative",
+      "preservatives"
+    ],
+    "emoji": "🧴⏳",
+    "id": "gl290"
+  },
+  "prick": {
+    "word": "prick",
+    "definition": "to make small holes in dough with a fork or another pointed tool",
+    "variations": [
+      "prick",
+      "pricks",
+      "pricked",
+      "pricking"
+    ],
+    "emoji": "🍴•",
+    "id": "gl291"
+  },
+  "processing": {
+    "word": "processing",
+    "definition": "changing food from its natural form into another form for use or storage",
+    "variations": [
+      "process",
+      "processed",
+      "processing",
+      "processes"
+    ],
+    "emoji": "🏭🍽️",
+    "id": "gl292"
+  },
+  "productivity": {
+    "word": "productivity",
+    "definition": "the ability to do work well and produce good results",
+    "variations": [
+      "productivity",
+      "productive"
+    ],
+    "emoji": "💼📈",
+    "id": "gl293"
+  },
+  "proportion": {
+    "word": "proportion",
+    "definition": "the amount of each ingredient compared with the others in a recipe",
+    "variations": [
+      "proportion",
+      "proportions"
+    ],
+    "emoji": "⚖️🥄",
+    "id": "gl294"
+  },
+  "protein": {
+    "word": "protein",
+    "definition": "a nutrient needed for growth, repair of body tissues, and strength",
+    "variations": [
+      "protein",
+      "proteins"
+    ],
+    "emoji": "🥚💪",
+    "id": "gl295"
+  },
+  "prove": {
+    "word": "prove",
+    "definition": "to leave dough in a warm place so it rises before baking",
+    "variations": [
+      "prove",
+      "proves",
+      "proved",
+      "proving"
+    ],
+    "emoji": "🍞⏳",
+    "id": "gl296"
+  },
+  "pulses": {
+    "word": "pulses",
+    "definition": "dry edible seeds such as beans, lentils, and peas",
+    "variations": [
+      "pulse"
+    ],
+    "emoji": "🫘🥣",
+    "id": "gl297"
+  },
+  "punch": {
+    "word": "punch",
+    "definition": "a cold non-alcoholic drink made from fruit juice, sometimes mixed with soda",
+    "variations": [
+      "punch",
+      "punches"
+    ],
+    "emoji": "🍹🍊",
+    "id": "gl298"
+  },
+  "pungent": {
+    "word": "pungent",
+    "definition": "having a very strong sharp taste or smell",
+    "variations": [
+      "pungent"
+    ],
+    "emoji": "🌶️😮",
+    "id": "gl299"
+  },
+  "puréed": {
+    "word": "puréed",
+    "definition": "made into a smooth, soft food paste",
+    "variations": [
+      "purée",
+      "purées",
+      "puréeing"
+    ],
+    "emoji": "🥣🍠",
+    "id": "gl300"
+  },
+  "raisin": {
+    "word": "raisin",
+    "definition": "a dried grape used in baking and cooking",
+    "variations": [
+      "raisin",
+      "raisins"
+    ],
+    "emoji": "🍇🍪",
+    "id": "gl301"
+  },
+  "raising agent": {
+    "word": "raising agent",
+    "definition": "something added to dough or batter to make it rise and become lighter",
+    "variations": [
+      "raising agent",
+      "raising agents"
+    ],
+    "emoji": "⬆️🍞",
+    "id": "gl302"
+  },
+  "rancidity": {
+    "word": "rancidity",
+    "definition": "the condition in which fat or oil becomes old and develops a bad smell or taste",
+    "variations": [
+      "rancidity"
+    ],
+    "emoji": "🛢️👃",
+    "id": "gl303"
+  },
+  "refined": {
+    "word": "refined",
+    "definition": "processed to remove some parts of the grain, often reducing nutrients",
+    "variations": [
+      "refine",
+      "refined",
+      "refining"
+    ],
+    "emoji": "⚙️🌾",
+    "id": "gl304"
+  },
+  "refined flour": {
+    "word": "refined flour",
+    "definition": "flour that has been processed to remove some parts of the grain",
+    "variations": [
+      "refined flour"
+    ],
+    "emoji": "🥣⚪",
+    "id": "gl305"
+  },
+  "refugee": {
+    "word": "refugee",
+    "definition": "a person who has been forced to leave their country because of war, danger, or disaster",
+    "variations": [
+      "refugee",
+      "refugees"
+    ],
+    "emoji": "🏕️🚶",
+    "id": "gl306"
+  },
+  "rehabilitation": {
+    "word": "rehabilitation",
+    "definition": "the process of helping someone recover health and strength",
+    "variations": [
+      "rehabilitation",
+      "rehabilitate",
+      "rehabilitated"
+    ],
+    "emoji": "🏥💚",
+    "id": "gl307"
+  },
+  "reproductive age": {
+    "word": "reproductive age",
+    "definition": "the period in life when a person is able to have children",
+    "variations": [
+      "reproductive age"
+    ],
+    "emoji": "👩📅",
+    "id": "gl308"
+  },
+  "restriction": {
+    "word": "restriction",
+    "definition": "a limit on what someone can eat or do",
+    "variations": [
+      "restriction",
+      "restrictions"
+    ],
+    "emoji": "🚫🍽️",
+    "id": "gl309"
+  },
+  "riboflavin": {
+    "word": "riboflavin",
+    "definition": "vitamin B2, a vitamin that helps the body grow and stay healthy",
+    "variations": [
+      "riboflavin",
+      "vitamin B2"
+    ],
+    "emoji": "💊🌟",
+    "id": "gl310"
+  },
+  "rice": {
+    "word": "rice",
+    "definition": "a cereal grain eaten as food in many parts of the world",
+    "variations": [
+      "rice"
+    ],
+    "emoji": "🍚🌾",
+    "id": "gl311"
+  },
+  "rickets": {
+    "word": "rickets",
+    "definition": "a disease in children in which bones become soft and weak, usually because of vitamin D deficiency",
+    "variations": [
+      "rickets"
+    ],
+    "emoji": "🦴🧒☀️",
+    "id": "gl312"
+  },
+  "roughage": {
+    "word": "roughage",
+    "definition": "the part of plant food that helps food move through the stomach and intestines",
+    "variations": [
+      "roughage"
+    ],
+    "emoji": "🥬🌾",
+    "id": "gl313"
+  },
+  "salad": {
+    "word": "salad",
+    "definition": "a dish made mainly from raw or lightly prepared vegetables or fruits, usually mixed together",
+    "variations": [
+      "salad",
+      "salads"
+    ],
+    "emoji": "🥗🥒",
+    "id": "gl314"
+  },
+  "salad dressing": {
+    "word": "salad dressing",
+    "definition": "a sauce or liquid added to salad to improve its taste",
+    "variations": [
+      "salad dressing",
+      "salad dressings",
+      "dressing",
+      "dressings"
+    ],
+    "emoji": "🥗🫙",
+    "id": "gl315"
+  },
+  "sanitation": {
+    "word": "sanitation",
+    "definition": "the practice of keeping places clean and safe to protect health",
+    "variations": [
+      "sanitation"
+    ],
+    "emoji": "🚰🧼",
+    "id": "gl316"
+  },
+  "saucepan": {
+    "word": "saucepan",
+    "definition": "a deep cooking pan, usually with a handle, used for boiling or heating food",
+    "variations": [
+      "saucepan",
+      "saucepans"
+    ],
+    "emoji": "🍲🔥",
+    "id": "gl317"
+  },
+  "saucer": {
+    "word": "saucer",
+    "definition": "a small plate placed under a cup",
+    "variations": [
+      "saucers"
+    ],
+    "emoji": "☕🍽️",
+    "id": "gl318"
+  },
+  "screening": {
+    "word": "screening",
+    "definition": "testing people to check for a disease or health problem early, even before symptoms appear",
+    "variations": [
+      "screening",
+      "screenings",
+      "screened"
+    ],
+    "emoji": "🩺🔍",
+    "id": "gl319"
+  },
+  "scurvy": {
+    "word": "scurvy",
+    "definition": "a disease caused by lack of vitamin C, leading to weak gums, weakness, and poor healing",
+    "variations": [
+      "scurvy"
+    ],
+    "emoji": "🍊🦷",
+    "id": "gl320"
+  },
+  "scutellum": {
+    "word": "scutellum",
+    "definition": "a thin part of a grain near the germ that helps store and transfer nutrients",
+    "variations": [
+      "scutellum"
+    ],
+    "emoji": "🌾🔬",
+    "id": "gl321"
+  },
+  "seasonal food": {
+    "word": "seasonal food",
+    "definition": "food that is naturally available at a certain time of the year",
+    "variations": [
+      "seasonal food",
+      "seasonal foods"
+    ],
+    "emoji": "🍓📅",
+    "id": "gl322"
+  },
+  "seasoning": {
+    "word": "seasoning",
+    "definition": "an ingredient added to food to improve its flavour during cooking or processing",
+    "variations": [
+      "seasoning",
+      "seasonings"
+    ],
+    "emoji": "🧂🍛",
+    "id": "gl323"
+  },
+  "seasonings": {
+    "word": "seasonings",
+    "definition": "ingredients added to food to improve its taste",
+    "variations": [
+      "seasoning"
+    ],
+    "emoji": "🧂🌿",
+    "id": "gl324"
+  },
+  "sedentary": {
+    "word": "sedentary",
+    "definition": "spending a lot of time sitting and doing very little physical activity",
+    "variations": [
+      "sedentary"
+    ],
+    "emoji": "🪑📱",
+    "id": "gl325"
+  },
+  "self-rising flour": {
+    "word": "self-rising flour",
+    "definition": "flour that already has raising agents added to help baked foods rise",
+    "variations": [
+      "self-rising flour",
+      "self-raising flour"
+    ],
+    "emoji": "🌾🎂",
+    "id": "gl326"
+  },
+  "semolina": {
+    "word": "semolina",
+    "definition": "a coarse flour made from durum wheat, often used for pasta and some desserts",
+    "variations": [
+      "semolina"
+    ],
+    "emoji": "🍝🌾",
+    "id": "gl327"
+  },
+  "sensitivity": {
+    "word": "sensitivity",
+    "definition": "a condition in which someone reacts easily to a food or substance",
+    "variations": [
+      "sensitivity",
+      "sensitivities"
+    ],
+    "emoji": "⚠️🧍",
+    "id": "gl328"
+  },
+  "severity": {
+    "word": "severity",
+    "definition": "how serious or bad something is",
+    "variations": [
+      "severity",
+      "severe",
+      "severely"
+    ],
+    "emoji": "⚠️📈",
+    "id": "gl329"
+  },
+  "shelf life": {
+    "word": "shelf life",
+    "definition": "the length of time food can be kept before it spoils",
+    "variations": [
+      "shelf life"
+    ],
+    "emoji": "📦⏳",
+    "id": "gl330"
+  },
+  "sieve": {
+    "word": "sieve",
+    "definition": "to pass dry ingredients through a mesh to remove lumps and make them fine",
+    "variations": [
+      "sieve",
+      "sieved",
+      "sieving",
+      "sieves"
+    ],
+    "emoji": "🥣🌾",
+    "id": "gl331"
+  },
+  "simmer": {
+    "word": "simmer",
+    "definition": "to cook gently in liquid just below boiling point",
+    "variations": [
+      "simmer",
+      "simmered",
+      "simmering"
+    ],
+    "emoji": "🥘♨️",
+    "id": "gl332"
+  },
+  "snack": {
+    "word": "snack",
+    "definition": "a small amount of food eaten between main meals",
+    "variations": [
+      "snack",
+      "snacks"
+    ],
+    "emoji": "🍎🥜",
+    "id": "gl333"
+  },
+  "sodium": {
+    "word": "sodium",
+    "definition": "a mineral found in salt that the body needs in small amounts",
+    "variations": [],
+    "emoji": "🧂❤️",
+    "id": "gl334"
+  },
+  "sodium bicarbonate": {
+    "word": "sodium bicarbonate",
+    "definition": "a white powder, also called baking soda, used in cooking and experiments",
+    "variations": [
+      "sodium bicarbonate",
+      "baking soda"
+    ],
+    "emoji": "🧪🥄",
+    "id": "gl335"
+  },
+  "solution": {
+    "word": "solution",
+    "definition": "a liquid mixture in which one substance is dissolved in another",
+    "variations": [
+      "solution",
+      "solutions"
+    ],
+    "emoji": "🧪💧",
+    "id": "gl336"
+  },
+  "sorghum": {
+    "word": "sorghum",
+    "definition": "a cereal grain that grows well in dry conditions and is used as food",
+    "variations": [
+      "sorghum"
+    ],
+    "emoji": "🌾☀️",
+    "id": "gl337"
+  },
+  "soy sauce": {
+    "word": "soy sauce",
+    "definition": "a dark liquid condiment used to add salty flavour to food",
+    "variations": [
+      "soy sauce"
+    ],
+    "emoji": "🥢🫗",
+    "id": "gl338"
+  },
+  "special diets": {
+    "word": "special diets",
+    "definition": "meal plans made for particular health needs or conditions",
+    "variations": [
+      "special diet"
+    ],
+    "emoji": "🍽️📋",
+    "id": "gl339"
+  },
+  "special occasions": {
+    "word": "special occasions",
+    "definition": "important events or celebrations that need special preparation",
+    "variations": [
+      "special occasion"
+    ],
+    "emoji": "🎉🍽️",
+    "id": "gl340"
+  },
+  "specification": {
+    "word": "specification",
+    "definition": "a clear instruction or detail about how something should be used or made",
+    "variations": [
+      "specification",
+      "specifications"
+    ],
+    "emoji": "📏📝",
+    "id": "gl341"
+  },
+  "spice": {
+    "word": "spice",
+    "definition": "an aromatic part of a plant, such as a seed, bark, root, or flower, used to add flavour and smell to food",
+    "variations": [
+      "spice",
+      "spices"
+    ],
+    "emoji": "🌶️🫚",
+    "id": "gl342"
+  },
+  "spoilage": {
+    "word": "spoilage",
+    "definition": "the process of food going bad and becoming unfit to eat",
+    "variations": [
+      "spoilage"
+    ],
+    "emoji": "🍞⚠️",
+    "id": "gl343"
+  },
+  "sprinkle": {
+    "word": "sprinkle",
+    "definition": "to scatter small amounts of something over food",
+    "variations": [
+      "sprinkle",
+      "sprinkles",
+      "sprinkled",
+      "sprinkling"
+    ],
+    "emoji": "✨🥄",
+    "id": "gl344"
+  },
+  "stabiliser": {
+    "word": "stabiliser",
+    "definition": "a substance that helps food stay evenly mixed and keeps its form",
+    "variations": [
+      "stabiliser",
+      "stabilisers"
+    ],
+    "emoji": "⚖️🥛",
+    "id": "gl345"
+  },
+  "stabilizer": {
+    "word": "stabilizer",
+    "definition": "a substance added to food to help keep its texture or form the same",
+    "variations": [
+      "stabilizer",
+      "stabilizers"
+    ],
+    "emoji": "🧁⚖️",
+    "id": "gl346"
+  },
+  "stable": {
+    "word": "stable",
+    "definition": "able to stay the same and not change easily",
+    "variations": [
+      "stable",
+      "stability"
+    ],
+    "emoji": "🧱✔️",
+    "id": "gl347"
+  },
+  "staple food": {
+    "word": "staple food",
+    "definition": "a basic food eaten regularly by many people",
+    "variations": [
+      "staple food",
+      "staple foods"
+    ],
+    "emoji": "🍚🌽",
+    "id": "gl348"
+  },
+  "star anise": {
+    "word": "star anise",
+    "definition": "a star-shaped spice with a strong sweet flavour",
+    "variations": [
+      "star anise"
+    ],
+    "emoji": "⭐🌰",
+    "id": "gl349"
+  },
+  "starch granules": {
+    "word": "starch granules",
+    "definition": "tiny particles of starch that absorb liquid and swell during cooking",
+    "variations": [
+      "starch granule",
+      "starch granules"
+    ],
+    "emoji": "🌾🔬",
+    "id": "gl350"
+  },
+  "starchy foods": {
+    "word": "starchy foods",
+    "definition": "foods rich in starch that mainly give energy, such as rice, potatoes, and maize",
+    "variations": [
+      "starchy food"
+    ],
+    "emoji": "🍚🥔",
+    "id": "gl351"
+  },
+  "starter": {
+    "word": "starter",
+    "definition": "the first dish of a meal, usually light and meant to begin the meal",
+    "variations": [
+      "starter",
+      "starters"
+    ],
+    "emoji": "🥗🍽️",
+    "id": "gl352"
+  },
+  "stiff": {
+    "word": "stiff",
+    "definition": "thick and not soft or runny",
+    "variations": [
+      "stiff",
+      "stiffer",
+      "stiffest"
+    ],
+    "emoji": "🥣✋",
+    "id": "gl353"
+  },
+  "stillbirth": {
+    "word": "stillbirth",
+    "definition": "the birth of a baby that has died before being born",
+    "variations": [
+      "stillbirth",
+      "stillbirths"
+    ],
+    "emoji": "💔👶",
+    "id": "gl354"
+  },
+  "stress": {
+    "word": "stress",
+    "definition": "pressure or strain on the body or mind",
+    "variations": [
+      "stress",
+      "stressed"
+    ],
+    "emoji": "😣💥",
+    "id": "gl355"
+  },
+  "stunting": {
+    "word": "stunting",
+    "definition": "poor growth in a child that makes them shorter than expected for their age because of long-term undernutrition",
+    "variations": [
+      "stunting",
+      "stunted"
+    ],
+    "emoji": "📏🧒",
+    "id": "gl356"
+  },
+  "substance": {
+    "word": "substance",
+    "definition": "a type of material or matter",
+    "variations": [
+      "substance",
+      "substances"
+    ],
+    "emoji": "🧪",
+    "id": "gl357"
+  },
+  "supper": {
+    "word": "supper",
+    "definition": "a light meal eaten in the evening, sometimes later than dinner",
+    "variations": [
+      "supper",
+      "suppers"
+    ],
+    "emoji": "🍲🌃",
+    "id": "gl358"
+  },
+  "supplement": {
+    "word": "supplement",
+    "definition": "a vitamin, mineral, or other nutrient taken to add to the diet",
+    "variations": [
+      "supplement",
+      "supplements"
+    ],
+    "emoji": "💊➕",
+    "id": "gl359"
+  },
+  "supplementary foods": {
+    "word": "supplementary foods",
+    "definition": "extra foods given to meet additional nutrition needs",
+    "variations": [
+      "supplementary food",
+      "supplementary foods"
+    ],
+    "emoji": "🍚➕",
+    "id": "gl360"
+  },
+  "supplementation": {
+    "word": "supplementation",
+    "definition": "the use of extra nutrients, such as vitamins or minerals, to improve health",
+    "variations": [
+      "supplementation",
+      "supplement",
+      "supplements"
+    ],
+    "emoji": "💊➕",
+    "id": "gl361"
+  },
+  "sustained": {
+    "word": "sustained",
+    "definition": "continuing for a long time without stopping or dropping quickly",
+    "variations": [
+      "sustained"
+    ],
+    "emoji": "⏳⚡",
+    "id": "gl362"
+  },
+  "symptom": {
+    "word": "symptom",
+    "definition": "a change in the body or feeling that shows illness",
+    "variations": [
+      "symptom",
+      "symptoms"
+    ],
+    "emoji": "🤒⚠️",
+    "id": "gl363"
+  },
+  "synthesise": {
+    "word": "synthesise",
+    "definition": "to make something by combining substances, especially chemically",
+    "variations": [
+      "synthesise",
+      "synthesized",
+      "synthesised",
+      "synthesizing"
+    ],
+    "emoji": "🧪⚗️",
+    "id": "gl364"
+  },
+  "synthesized": {
+    "word": "synthesized",
+    "definition": "made or produced by the body or by a process",
+    "variations": [
+      "synthesize",
+      "synthesized",
+      "synthesised",
+      "synthesizes",
+      "synthesised"
+    ],
+    "emoji": "🧪⚙️",
+    "id": "gl365"
+  },
+  "synthetic": {
+    "word": "synthetic",
+    "definition": "made by people using chemicals rather than coming directly from nature",
+    "variations": [
+      "synthetic",
+      "synthetics"
+    ],
+    "emoji": "🧪🏭",
+    "id": "gl366"
+  },
+  "table laying": {
+    "word": "table laying",
+    "definition": "another name for preparing and arranging a table for a meal",
+    "variations": [],
+    "emoji": "🍽️📐",
+    "id": "gl367"
+  },
+  "table mats": {
+    "word": "table mats",
+    "definition": "mats placed on a table to protect it or the tablecloth from heat and stains",
+    "variations": [
+      "table mat"
+    ],
+    "emoji": "🟫🍽️",
+    "id": "gl368"
+  },
+  "table setting": {
+    "word": "table setting",
+    "definition": "the arrangement of plates, cutlery, glasses, and other items on a dining table",
+    "variations": [
+      "table settings"
+    ],
+    "emoji": "🍽️🪑",
+    "id": "gl369"
+  },
+  "tablecloth": {
+    "word": "tablecloth",
+    "definition": "a cloth used to cover a table",
+    "variations": [
+      "tablecloths"
+    ],
+    "emoji": "🧺🍽️",
+    "id": "gl370"
+  },
+  "tableware": {
+    "word": "tableware",
+    "definition": "items used on the table for eating and serving food",
+    "variations": [],
+    "emoji": "🍽️🥄",
+    "id": "gl371"
+  },
+  "tender": {
+    "word": "tender",
+    "definition": "soft enough to eat easily, but not too soft",
+    "variations": [
+      "tender",
+      "tenderer",
+      "tenderest"
+    ],
+    "emoji": "🍲👌",
+    "id": "gl372"
+  },
+  "texture": {
+    "word": "texture",
+    "definition": "the way food feels in the mouth or to the touch",
+    "variations": [
+      "texture",
+      "textures"
+    ],
+    "emoji": "🥄🤲",
+    "id": "gl373"
+  },
+  "therapeutic": {
+    "word": "therapeutic",
+    "definition": "used to help treat or heal a health problem",
+    "variations": [
+      "therapeutic"
+    ],
+    "emoji": "🩺💊",
+    "id": "gl374"
+  },
+  "therapeutic foods": {
+    "word": "therapeutic foods",
+    "definition": "special foods made to treat people with severe malnutrition",
+    "variations": [
+      "therapeutic food",
+      "therapeutic foods"
+    ],
+    "emoji": "🥣🏥",
+    "id": "gl375"
+  },
+  "thiamine": {
+    "word": "thiamine",
+    "definition": "vitamin B1, a vitamin that helps the body use food for energy",
+    "variations": [
+      "thiamine",
+      "vitamin B1"
+    ],
+    "emoji": "💊⚡",
+    "id": "gl376"
+  },
+  "thicken": {
+    "word": "thicken",
+    "definition": "to become or make something less watery and more dense",
+    "variations": [
+      "thicken",
+      "thickens",
+      "thickened",
+      "thickening"
+    ],
+    "emoji": "🥣⬆️",
+    "id": "gl377"
+  },
+  "thickener": {
+    "word": "thickener",
+    "definition": "a substance added to make a liquid food thicker",
+    "variations": [
+      "thickener",
+      "thickeners"
+    ],
+    "emoji": "🥣⬆️",
+    "id": "gl378"
+  },
+  "thickening agent": {
+    "word": "thickening agent",
+    "definition": "a substance used to make a liquid food such as soup or sauce thicker",
+    "variations": [
+      "thickening agent",
+      "thickening agents"
+    ],
+    "emoji": "🥣➕",
+    "id": "gl379"
+  },
+  "thyroid": {
+    "word": "thyroid",
+    "definition": "a gland in the neck that helps control growth, energy use, and body functions",
+    "variations": [
+      "thyroid",
+      "thyroid gland"
+    ],
+    "emoji": "🦋🧠",
+    "id": "gl380"
+  },
+  "tissue": {
+    "word": "tissue",
+    "definition": "a group of body cells that work together to do a special job",
+    "variations": [
+      "tissue",
+      "tissues"
+    ],
+    "emoji": "🧫💪",
+    "id": "gl381"
+  },
+  "tomato sauce": {
+    "word": "tomato sauce",
+    "definition": "a sauce made from tomatoes, used to add flavour to food",
+    "variations": [
+      "tomato sauce"
+    ],
+    "emoji": "🍅🥫",
+    "id": "gl382"
+  },
+  "toxicity": {
+    "word": "toxicity",
+    "definition": "the quality of being poisonous or harmful",
+    "variations": [
+      "toxicity",
+      "toxic"
+    ],
+    "emoji": "☠️⚠️",
+    "id": "gl383"
+  },
+  "traditional belief": {
+    "word": "traditional belief",
+    "definition": "an idea or practice passed down in a community over time",
+    "variations": [
+      "traditional belief",
+      "traditional beliefs"
+    ],
+    "emoji": "🏺👨‍👩‍👧‍👦",
+    "id": "gl384"
+  },
+  "turmeric": {
+    "word": "turmeric",
+    "definition": "a yellow spice from a root, used to add colour and flavour to food",
+    "variations": [
+      "turmeric"
+    ],
+    "emoji": "🟡🍛",
+    "id": "gl385"
+  },
+  "undernutrition": {
+    "word": "undernutrition",
+    "definition": "a condition in which the body does not get enough food or nutrients for healthy growth and function",
+    "variations": [
+      "undernutrition",
+      "under-nutrition"
+    ],
+    "emoji": "🍚📉",
+    "id": "gl386"
+  },
+  "underweight": {
+    "word": "underweight",
+    "definition": "weighing less than is healthy for a person’s age or height",
+    "variations": [
+      "underweight"
+    ],
+    "emoji": "⚖️⬇️",
+    "id": "gl387"
+  },
+  "unpolished rice": {
+    "word": "unpolished rice",
+    "definition": "rice that keeps its bran and germ, so it is more nutritious",
+    "variations": [
+      "unpolished rice",
+      "brown rice",
+      "whole grain rice"
+    ],
+    "emoji": "🍚🟤",
+    "id": "gl388"
+  },
+  "vaccination": {
+    "word": "vaccination",
+    "definition": "the act of giving a vaccine to protect a person from disease",
+    "variations": [
+      "vaccination",
+      "vaccinations",
+      "vaccinate",
+      "vaccinated"
+    ],
+    "emoji": "💉🛡️",
+    "id": "gl389"
+  },
+  "vanilla essence": {
+    "word": "vanilla essence",
+    "definition": "a liquid flavoring with vanilla taste used in baking and desserts",
+    "variations": [
+      "vanilla essence"
+    ],
+    "emoji": "🍨🧁",
+    "id": "gl390"
+  },
+  "vegan": {
+    "word": "vegan",
+    "definition": "a person who does not eat or use animal products",
+    "variations": [
+      "vegan",
+      "vegans"
+    ],
+    "emoji": "🌱🥗",
+    "id": "gl391"
+  },
+  "vegetarian": {
+    "word": "vegetarian",
+    "definition": "a person who does not eat meat, and sometimes other animal foods",
+    "variations": [
+      "vegetarian",
+      "vegetarians"
+    ],
+    "emoji": "🥦🥕",
+    "id": "gl392"
+  },
+  "vegetarians": {
+    "word": "vegetarians",
+    "definition": "people who do not eat meat, and sometimes do not eat other animal foods",
+    "variations": [
+      "vegetarian"
+    ],
+    "emoji": "🥗🌱",
+    "id": "gl393"
+  },
+  "venue": {
+    "word": "venue",
+    "definition": "the place where an event happens",
+    "variations": [
+      "venues"
+    ],
+    "emoji": "📍🏛️",
+    "id": "gl394"
+  },
+  "vermicelli": {
+    "word": "vermicelli",
+    "definition": "very thin, long pasta or noodles",
+    "variations": [
+      "vermicelli"
+    ],
+    "emoji": "🍜🍝",
+    "id": "gl395"
+  },
+  "versatile": {
+    "word": "versatile",
+    "definition": "able to be used in many different ways",
+    "variations": [
+      "versatile"
+    ],
+    "emoji": "🔁✨",
+    "id": "gl396"
+  },
+  "vibrant": {
+    "word": "vibrant",
+    "definition": "bright and strong in colour",
+    "variations": [
+      "vibrant"
+    ],
+    "emoji": "🌈✨",
+    "id": "gl397"
+  },
+  "viscosity": {
+    "word": "viscosity",
+    "definition": "the thickness of a liquid and how slowly it flows",
+    "variations": [
+      "viscosity"
+    ],
+    "emoji": "🥣🐢",
+    "id": "gl398"
+  },
+  "vitamin": {
+    "word": "vitamin",
+    "definition": "a nutrient needed in small amounts to keep the body healthy",
+    "variations": [
+      "vitamin",
+      "vitamins"
+    ],
+    "emoji": "🍊💊",
+    "id": "gl399"
+  },
+  "vitamin A deficiency": {
+    "word": "vitamin A deficiency",
+    "definition": "a lack of enough vitamin A in the body, which can harm vision, growth, and resistance to infection",
+    "variations": [
+      "vitamin A deficiency"
+    ],
+    "emoji": "👁️🥕",
+    "id": "gl400"
+  },
+  "wasting": {
+    "word": "wasting",
+    "definition": "serious weight loss that makes the body very thin and weak",
+    "variations": [
+      "wasting",
+      "wasted"
+    ],
+    "emoji": "🦴⬇️",
+    "id": "gl401"
+  },
+  "wheat": {
+    "word": "wheat",
+    "definition": "a cereal crop whose grains are used to make flour and other foods",
+    "variations": [
+      "wheat"
+    ],
+    "emoji": "🌾🍞",
+    "id": "gl402"
+  },
+  "whisk": {
+    "word": "whisk",
+    "definition": "to beat or mix food quickly so that it becomes smooth or full of air",
+    "variations": [
+      "whisk",
+      "whisks",
+      "whisked",
+      "whisking"
+    ],
+    "emoji": "🥄🥣",
+    "id": "gl403"
+  },
+  "white flour": {
+    "word": "white flour",
+    "definition": "flour made after removing the bran and germ from the grain",
+    "variations": [
+      "white flour"
+    ],
+    "emoji": "⚪🥣",
+    "id": "gl404"
+  },
+  "wholemeal": {
+    "word": "wholemeal",
+    "definition": "made from the whole grain, including the bran and germ",
+    "variations": [
+      "wholemeal"
+    ],
+    "emoji": "🌾🍞",
+    "id": "gl405"
+  },
+  "wholemeal flour": {
+    "word": "wholemeal flour",
+    "definition": "flour made from the whole grain, including bran, germ, and endosperm",
+    "variations": [
+      "wholemeal flour"
+    ],
+    "emoji": "🌾🟤",
+    "id": "gl406"
+  },
+  "xerophthalmia": {
+    "word": "xerophthalmia",
+    "definition": "severe dryness of the eyes caused by lack of vitamin A",
+    "variations": [
+      "xerophthalmia"
+    ],
+    "emoji": "👁️🏜️",
+    "id": "gl407"
+  },
+  "yeast": {
+    "word": "yeast",
+    "definition": "a living substance used in baking to make dough rise",
+    "variations": [
+      "yeast",
+      "yeasts"
+    ],
+    "emoji": "🍞🦠",
+    "id": "gl408"
+  }
+}

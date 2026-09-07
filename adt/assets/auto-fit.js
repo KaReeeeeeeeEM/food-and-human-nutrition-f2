@@ -8,7 +8,8 @@
  * 1. Letter-spacing tightening (small, ≤ -0.02em). Handles the
  *    millimetre-scale browser-vs-mupdf glyph metric drift without
  *    visibly cramming characters.
- * 2. Font-size shrink (98% → 50% in 2% steps). The dominant strategy —
+ * 2. Font-size shrink (98% → 84% in 2% steps). This absorbs modest font-metric
+ *    drift without turning nominal 12 px body copy into visibly smaller text.
  *    a borderline 14%-too-wide title hits 86% font cleanly instead of
  *    being crammed at full size.
  *
@@ -35,6 +36,27 @@
     return (value || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim()
   }
 
+  function romanValue(token) {
+    var roman = String(token || "").toUpperCase()
+    if (!/^(?=[MDCLXVI]+$)M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$/.test(roman)) return null
+    var values = { I: 1, V: 5, X: 10, L: 50, C: 100, D: 500, M: 1000 }
+    var total = 0
+    for (var i = 0; i < roman.length; i++) {
+      var current = values[roman[i]]
+      var next = values[roman[i + 1]] || 0
+      total += current < next ? -current : current
+    }
+    return total || null
+  }
+
+  function accessibleTocLabel(original) {
+    var spoken = original.replace(/\s*\.{3,}\s*/g, ", ")
+    return spoken.replace(/\b([ivxlcdm]+)(?=\s*$)/i, function (token) {
+      var value = romanValue(token)
+      return value === null ? token : "Roman numeral " + value
+    })
+  }
+
   function normalizeTocRows() {
     var rows = document.querySelectorAll("#content [data-adt-fit]")
     for (var i = 0; i < rows.length; i++) {
@@ -54,7 +76,7 @@
           appendTocCells(row, segmentMatches[si], sourceSpans[si].style.cssText)
           stack.appendChild(row)
         }
-        rows[i].setAttribute("aria-label", original)
+        rows[i].setAttribute("aria-label", accessibleTocLabel(original))
         rows[i].replaceChildren(stack)
         rows[i].style.display = "block"
         rows[i].dataset.adtTocRow = "1"
@@ -63,7 +85,7 @@
       if (!match) continue
       var sample = rows[i].querySelector("span")
       var inherited = sample ? sample.style.cssText : ""
-      rows[i].setAttribute("aria-label", original)
+      rows[i].setAttribute("aria-label", accessibleTocLabel(original))
       rows[i].replaceChildren()
       appendTocCells(rows[i], match, inherited)
       rows[i].style.display = "flex"
@@ -127,7 +149,6 @@
       var tr = text[i].getBoundingClientRect()
       for (var j = 0; j < images.length; j++) {
         if (images[j].dataset.adtRasterPartial === "1") continue
-        var description = normalizeText(images[j].getAttribute("alt"))
         var ir = images[j].getBoundingClientRect()
         // getBoundingClientRect() reports the element's unclipped box. The
         // fixed-layout renderer clips composite crops to exclude semantic
@@ -156,13 +177,15 @@
         var verticalCoverage = intersectionHeight / Math.max(1, tr.height)
         var fullyContained = verticalCoverage >= 0.75 && horizontalCoverage >= 0.5
         var rasterizedText = images[j].dataset.adtRasterText === "1"
-        var evidencedByCaption = phrase.length >= 4 && description.includes(phrase)
         // A partial page crop can overlap the centre of a longer semantic
         // line while omitting its beginning or end. Hiding that paragraph
         // makes the omitted fragment disappear. Raster crops suppress text
-        // only when they contain the whole text box; a matching caption is
-        // still independent evidence that a complete duplicate is painted.
-        if (!overlaps || (!(rasterizedText && fullyContained) && !evidencedByCaption)) continue
+        // only when they contain the whole text box. Genuine illustrations
+        // can have descriptive alt text containing nearby page words (for
+        // example a certificate mentioning the book title or publisher);
+        // caption wording alone is not evidence that those positioned words
+        // are painted at the same location inside the image.
+        if (!overlaps || !(rasterizedText && fullyContained)) continue
         text[i].style.opacity = "0"
         text[i].dataset.adtRasterDuplicate = "1"
         break
@@ -305,8 +328,10 @@
       el.style.letterSpacing = origLs - refFs * 0.005 * k + "px"
       if (fits()) return
     }
-    // Step 2: font-size shrink, dominant strategy (98% → 50%).
-    for (var s = 98; s >= 50; s -= 2) {
+    // Step 2: permit only modest shrinkage. Larger reductions usually mean
+    // the extracted PDF box is wrong; preserve readable source typography and
+    // let that line extend visibly instead of silently reducing it to 6–9 px.
+    for (var s = 98; s >= 84; s -= 2) {
       var scale = s / 100
       for (var m = 0; m < ts.length; m++) {
         ts[m].style.fontSize = parseFloat(ts[m].dataset.adtFs) * scale + "px"
@@ -315,9 +340,9 @@
       if (fits()) return
     }
     // Reached the floor without fitting — restore originals. Content
-    // that won't fit even at 50% is usually a browser font-fallback
-    // issue, not a translation-length issue. A barely-overflowing line
-    // at original size is more readable than a 5.75 px line that fits;
+    // that won't fit after modest metric compensation usually has incorrect
+    // extracted geometry. A visibly extending source-sized line is more
+    // readable than one whose typography changes substantially;
     // the renderer keeps `overflow: visible` on text entries so the
     // spill is shown, not clipped.
     for (var rs = 0; rs < ts.length; rs++) {
